@@ -11,23 +11,23 @@ persona_1:
   - image_path: /assets/images/image_yellow.jpg
     title: "Placeholder Persona 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 persona_2:    
   - image_path: /assets/images/image_yellow.jpg
     title: "Placeholder Persona 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 # Heading 1
 
-Some text.
+Some text. 
+
+*Cursive*
+
+**Bold**
 
 ## Heading 2
+
+### Heading 3
 
 Some more text.
 
