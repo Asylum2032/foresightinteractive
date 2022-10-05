@@ -1,11 +1,11 @@
 ---
-title: Scenario Title
+title: Caimans and Piranhas in a Drying Pond
 layout: single
-permalink: /template/
+permalink: /scenarios/red/
 header:
-    overlay_image: /assets/images/image_yellow.jpg
+    overlay_image: /assets/images/image_red.jpg
 toc: true
-toc_label: "Scenario Title"
+toc_label: "Table of Contents"
 toc_icon: "cog"    
 persona_1:
   - image_path: /assets/images/image_yellow.jpg
