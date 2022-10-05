@@ -1,9 +1,12 @@
 ---
-title: Scenario Title
-layout: splash
-permalink: /yellow/
+title: Humming Bees on the Global Meadows
+layout: single
+permalink: /scenarios/yellow/
 header:
     overlay_image: /assets/images/image_yellow.jpg
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 4"
@@ -18,11 +21,9 @@ feature_row2:
 
 # Scenario World Narrative
 
-{% include figure image_path="/assets/images/image_yellow.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-
 ## More democracy and economic progress
 
-By 2032, **the number** and [intensity]() of armed conflicts have decreased in the last decade as peaceful solutions are successfully pursued at the international level through a multi-faceted approach. 
+By 2032, the number and intensity of armed conflicts have decreased in the last decade as peaceful solutions are successfully pursued at the international level through a multi-faceted approach. 
 The international community is taking responsibility for conflicts that stem from remnants of colonial history and, in some territories, solutions are being successfully found through international mediation. Countering the previous wave of undemocratic power shifts, many state governments around the world have been strengthening democratic institutions and procedures – moving higher up the scale of democracy – and regime violence is diminishing in many regions as a result.
 Economic development in third countries and global initiatives to reduce financial inequality (e.g. conditional debt cancellation) reduce the proportion of economic migrants within the flows of migration. In addition to further economic development, third countries now face lower wealth inequality and less poverty, while having better living standards and better access to health care. In transit countries , the economic situation and political stability improve and, as a result, part of the migrants decide to stay in these countries instead of continuing their travel to initially intended destination countries in Europe (or elsewhere). At the same time, regional solutions to improve economic and social conditions in countries or territories of origin reduce the overall pressure on transit countries. 
 
@@ -30,7 +31,7 @@ Economic development in third countries and global initiatives to reduce financi
 
 Supported by international jurisprudence, respect for human rights improves and minority rights are increasingly recognised globally. There are transnational (and properly enforceable) regulations to protect vulnerable groups, accompanied by technological and social developments that increase minorities' awareness of their rights. Strong international civil society organisations collaborate to provide networks for minority groups and potential asylum seekers to report human rights violations and educate on international protection rights. Through the use of new technologies, oppression of minority groups is monitored and made transparent and is gradually receding from previous years. Mechanisms and technological infrastructure are in place to allow oppressed and vulnerable people to apply for international protection without increasing the risk of retaliatory punishment or forcing them to cross borders. 
 
-##Consequences of climate change are recognised and addressed
+## Consequences of climate change are recognised and addressed
 
 Worsening climate impacts increase displacement and insecurity. In third countries, urbanisation is intensifying as – due to climate impacts – there is less arable land and opportunities for traditional farming, while greater urban economic capacities are driving population movements. 
 Increasing environmental awareness is contributing to innovative approaches to irrigation and food distribution, including the improvement of regional structures to strengthen nutritional security. Climate change promotes a discussion that land and its use are inextricably linked to people's identity and well-being; international regulations to reduce conflicts related to land appropriation follow. Technology reduces resource scarcity by improving the production and distribution of various goods, including food and water. 
