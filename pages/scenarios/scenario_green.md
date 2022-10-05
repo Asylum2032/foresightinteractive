@@ -1,7 +1,7 @@
 ---
 title: Sleeping Leopard in a Paper Cage
 layout: single
-permalink: /scenarios/blue/
+permalink: /scenarios/green/
 header:
     overlay_image: /assets/images/image_green.jpg
 toc: true
