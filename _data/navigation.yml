@@ -1,6 +1,7 @@
 main:
-  - title: "Home"
+  - title: Home
     url: /
-scenarios:
-  - title: "yellow"
-    url: /yellow
+  - title: Challenges
+    url: /challenges/hub
+  - title: Key Factors
+    url: /factors/hub

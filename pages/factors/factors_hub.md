@@ -20,59 +20,61 @@ factor_expression_2:
     btn_class: "btn--primary"   
 factor_expression_3:
   - image_path: /assets/factor_graphics/003-Economic inequality.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "Disparity in wealth, income opportunities and access to services (healthcare, etc.) creating conditions for increased social pressures that lead to op-pression. This also relates to trends in mixed migration and is reflective of economic differences between countries of origin and destination."
+    url: /factors/economic_inequalities
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_4:    
   - image_path: /assets/factor_graphics/004-Oppression of Vulnerable groups.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."  
-    url: /factors/armed_conflicts
+    excerpt: "Targeted oppression of vulnerable and minority groups can emerge from conservative to authoritarian governments and the rise of extremist groups. Human Rights are violated for selected groups."  
+    url: /factors/oppression_vulnerable_groups
     btn_label: "Read More"
     btn_class: "btn--primary"  
 factor_expression_5:
   - image_path: /assets/factor_graphics/005-Climate Change InduedDisplacement.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "Changing environmental conditions lead to justification for permanent displaced populations. Powerful entity takes control of land, displaces previous users, enforces new ownership and management with violent oppression."
+    url: /factors/climate_change_displacement
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_6:    
   - image_path: /assets/factor_graphics/006-Food and Water Insecurity.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "As a prolonged shortage in water supply (precipitation, surface water and ground water) impacts (e.g. food insecurities) heighten, social pressure trans-forms into political oppression. Similar dynamics can be observed with scarcity of other resources."
+    url: /factors/food_water_insecurity
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_7:    
   - image_path: /assets/factor_graphics/007-Legal Pathways to International Protection.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "The options through which international protection can be legally pursued may change based on reforms to global agreements, national level legisla-tion, in conjunction with technologies that enable new processes and operations."
+    url: /factors/legal_protection
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_8:    
   - image_path: /assets/factor_graphics/008-Surveillance Security Digital Warfare.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "The use of various technologies leads to monitoring people across affiliations (state, organisations, digital groups, etc.). Attacks on infrastructure, da-tabases and other forms of IT disruption are executed digitally."
+    url: /factors/digital
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_9:    
   - image_path: /assets/factor_graphics/009-Regime Protection State Violence Land Use.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "Regimes controlling wealth generated from exploitation of resources may exercise violent protection against any threats to power."
+    url: /factors/land_use
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_10:    
   - image_path: /assets/factor_graphics/010-Automation and Databases.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "Artificial Intelligence (AI) and Machine Learning methods can automate identity verification. The databases these technologies rely on are heterogene-ous, partial and vulnerable to exploitation."
+    url: /factors/automation_databases
     btn_label: "Read More"
     btn_class: "btn--primary"
 factor_expression_11:    
   - image_path: /assets/factor_graphics/011-Social Media.svg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /factors/armed_conflicts
+    excerpt: "Most social media platforms emerged fewer than 10 years ago, yet they have fundamentally shifted information gathering, organising, networking and communications activities for asylum-seekers and receiving countries. Platforms can also be used and targeted by governments."
+    url: /factors/social_media
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+Introductory text should go here.
 
 # Armed Conflict
 
