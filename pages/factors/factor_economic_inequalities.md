@@ -1,14 +1,14 @@
 ---
-title: Factor Title
+title: Economic Inequalities
 layout: single
 permalink: /factors/economic_inequalities
 header:
     overlay_image: /assets/factor_graphics/003-Economic inequality.svg
 toc: true
-toc_label: "Factor Title"
+toc_label: "Economic Inequalities"
 toc_icon: "cog"
 ---
-
+# Economic Inequalities
 # A (Optimist)
 Global initiatives and rapid economic development reduce mixed migration
 * Indebted countries have loans forgiven (China) allowing them to reinvest in society
