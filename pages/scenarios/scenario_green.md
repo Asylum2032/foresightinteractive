@@ -41,7 +41,31 @@ One arena in which digital surveillance practice remains particularly divisive i
 
 Food and water shortages are becoming more habitual, of longer duration and creating more intense scarcity. Despite the deployment of numerous technologies to mitigate **climate change-induced extremes** – heat, drought, desertification, typhoons/hurricanes, floods, etc. – the unpredictability of when, where and at what intensity the effects of climate change may manifest dampens the efficacy of technological solutions. In some areas, where strong support for third countries exists, financial aid and transparent land ownership policies are tied to and allow for localised rebuilding and resettling. However, outside of these supportive conditions, there are many regions where the **migration drivers rooted in environmental changes** are becoming more intense. In these situations, many migrant groups are unable to apply for asylum before ecological disruptions inspire dangerous, life-threatening societal responses, such as forcible displacement, targeted oppression and civil conflicts. 
 
+# Scenario Personas
 
-{% include feature_row id="persona_1" type="left" %}
+## Persona A
+Amadou is 45 years old and he thinks he is getting too old for this. He had been part of the middle class back in Mali but was forced to flee that life after climate changes increased violent land grabbing by the local authorities. At first, he thought his move would be temporary and that he would be able to make a living working in a neighbouring country. After all, his higher education and experience as a manager had brought him a good living income in Mali. However, after years of working informally and slowly draining his savings, he believes that he will never be able to return, nor make a decent livelihood in his home region. He trusts that the international protection system will "protect" those who cannot live in dignity and have been victims of past persecution. He is confident that his land property certificates and his wedding certificate will be enough to prove his identity and that of his family. He has learned much from migrants in resettlement camps, through social media groups and from acquaintances who are already in Europe. He was identified by an artificial intelligence data processor as having a high likelihood of success, but he is afraid that he will not be able to reach a safe place to lodge the final application. 
 
-{% include feature_row id="persona_2" type="left" %}
+## Persona B
+Zin is 35 years old, hailing from Myanmar. The continuing persecution of individuals who are associated with anti-government protests seems to be getting worse for people like Zin. As a highly educated and technically skilled worker, she has assisted digital operations of civil organisations as a volunteer for many years. Now she is starting to fear for her life and livelihood, as her online identities were recently de-anonymised in a database breach orchestrated by the government. She has an ID card and a decent digital record of her accounts, posts and pictures. She has been assured that the artificial intelligence-enabled application assistants can put the pieces together for her, if only she can gain access to the system. The government restrictions on digital access have only been tightened since the database breach and her digital skills might only get her so far in accessing the open internet for long enough. She is very concerned about the exposure of more of her private data, particularly to a system that is hosted in a foreign land with no obligations to help – even if her application was accepted. 
+
+# Scenario Challenges
+
+## Geo-Political Challenges
+* Disagreement on the adoption of conventions regarding the acceptance and treatment of ‘climate refugees’ complicates relations between nations on opposing sides of such a stance. In this scenario, cooperation without such conventions may imply complex legal arrangements that would affect authorities in the field of international protection. 
+* The economic development of traditional transit countries has a complicated impact on general migration and asylum-seeking. At the same time, we might observe increases in international protection applications (with more wealth enabling more families to afford the journey), and less economic migration as greater wealth lowers incentives to migrate. 
+* Legal and cultural differences, and non-complimentary socio-political goals make global cooperation very difficult, and hinder the development of binding agreements within global governance institutions like the United Nations.
+* The new types of cooperation on international protection outlined in this scenario are intentionally vague, with details concerning bi-lateral or multilateral agreements are too specific for the scenario. This ambiguity does not erase the fact that any efforts between nations will remain burdened by unaddressed challenges (e.g. resettlement, aid, lodging and caretaking, security screening, etc.). 
+
+## Digitalisation and Data Challenges
+* The use of artificial intelligence and automated systems imply a major shift in application processing operations (electronic processing, remote interviews). Additionally, this scenario calls for human oversight of automated systems, implying additional training and skills are needed to understand and properly assess automated system results.   
+* This scenario implies that various online platforms and technologies will be used to assist in verification of asylum applicant identities and outlines present day challenges that would have to be addressed for this scenario to be realized: 
+  * Established information sharing agreements between governments and government entities
+  * Regulating social media to ensure information is trustworthy
+  * Securing private data and guarding against future cybersecurity issues and attacks.  
+
+
+## Climate Change Challenges
+* Since international organisations and some countries are expected to begin including climate change as a legitimate reason for granting international protection, this creates challenges with respect to requiring additional climate-related information in case processing and altering the criteria for assessing asylum applications. 
+* Additionally, if such an approach to ‘climate refugees’ is not universally approved (via a UN resolution for instance), then the asylum procedures may become complicated by unequal approaches. 
+* While this scenario presents a world in which there are concerted international efforts to confront climate change, it acknowledges that climate change effects are still developing and causing disruption and displacement in many places. 
