@@ -48,42 +48,6 @@ centres around three of the most impactful and uncertain factors and details how
 developments among those key factors infer coinciding and coherent developments 
 in the other factors.
 
-Given the explicit focus of the project to identify and analyse the potential 
-development of factors influencing the future of international protection that 
-are external to the EU (Annex 2a), the scenario worlds are presented as 
-descriptive narratives of global changes. Where appropriate, the scenarios 
-attempt to explain how each of the central factors has influenced the world at 
-large and what changes the EUAA must be able to account for in developing future 
-strategies – for example, investing in both technological systems and human 
-resources or working with EU+ countries to develop guidance and anticipatory policy. 
-
-The final mode of scenario analysis was a Delphi-style survey developed to help 
-gather insights into the likelihood and time-scale for critical aspects of each 
-scenario. Through this method, respondent assessments of scenario-derived 
-statements (included in the scenario overview below) provided quantitative and 
-qualitative feedback on the content of the scenarios with respect to expert 
-knowledge and opinion. The statements are derived from aspects of the scenarios 
-that were particularly controversial during the scenario analysis discussions. 
-Each Delphi statement was created to crystallize the development of one or more 
-key factors as presented within the scenario text as defining differentiators 
-between the scenario world of the future and our present situation. While the 
-Delphi statements from different scenarios may involve the same key factors, 
-the statements are created to accentuate how slight differences in factor 
-developments can have large impacts on defining new scenario conditions. The 
-Delphi method allows a deeper examination of proposed factor developments, by 
-gathering diverse expert assessments on the likelihood of each statement, 
-supporting arguments for each assessment, and estimates on when (if ever) such 
-a statement might become reality. This data can then used to engage the wider 
-community in dialogue regarding complex relationships of change, and might 
-provide insights to international protection stakeholders in the EU+ as they 
-derive options for action from the scenarios.
-
-Below is a brief overview of each of the four final scenarios and the three 
-statements that were used in a Delphi survey to gather expert opinion about each 
-scenario. It is important to recall that each scenario is created as a **plausible** 
-sketch of a future world, and not meant as a prediction of truth.
-
-
 {% include feature_row id="scenario_yellow" type="left" %}
 
 {% include feature_row id="scenario_blue" type="right" %}
@@ -94,5 +58,12 @@ sketch of a future world, and not meant as a prediction of truth.
 
 # Factors
 
+Factor introduction text goes here. [Find a list of key factors here.](/factors/hub)
+
 # Challenges
 
+While outlining challenges for any given scenario is a useful exercise, the 
+strategic purpose of the scenario development process is to help an organisation 
+prepare for a wide spectrum of possible futures. Identifying critical challenges 
+present across the scenarios helps to prioritise as well as build preparedness 
+and resilience. [Find more information at the Challenges Hub.](/challenges/hub)
