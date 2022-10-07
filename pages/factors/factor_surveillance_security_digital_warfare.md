@@ -1,7 +1,7 @@
 ---
 title: Factor Title
 layout: single
-permalink: /factor_template/
+permalink: /factors/digital
 header:
     overlay_image: /assets/images/image_yellow.jpg
 toc: true
