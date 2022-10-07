@@ -18,6 +18,11 @@ increased externalisation and might instrumentalise asylum-seeking migrants.
 
 Equitable agreements ease border pressure and improve conditions
 
+## B (Pessimist)
+
+Instrumentalised immigrants, disintegrating political dialogue, increasing 
+abuses and worsening conditions
+
 ## C1 (Mediator)
 
 Protected transit corridors assure asylum seekers safety of movement 
@@ -26,11 +31,6 @@ Protected transit corridors assure asylum seekers safety of movement
 
 Broad adoption of remote asylum application processing de-incentivises  
 improving international agreements or conditions
-
-## B (Pessimist)
-
-Instrumentalised immigrants, disintegrating political dialogue, increasing 
-abuses and worsening conditions
 
 ## D (Innovator)
 

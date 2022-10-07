@@ -6,29 +6,20 @@ header:
     overlay_image: /assets/factor_graphics/001-Armed Conflict.svg
 toc: false
 toc_label: "Armed Conflicts"
-toc_icon: "cog"    
-factor_expression_row1:
-  - title: "A (optimist)"
-    excerpt: "Transparency, participation and social cohesion lead to fewer conflicts on a national and international level"
-  - title: "C1 (mediator)"
-    excerpt: "Successful search for peaceful solutions (e.g. through education and mediation) on an international level"
-  - title: "C2 (mediator)"
-    excerpt: "Freeze - panem et circenses on the national level and 'cold war' on an international level lead to a stable situation"
-factor_expression_row2:    
-  - title: "B1 (pessimist)"
-    excerpt: "Changes in the world order lead to large scale international war"
-  - title: "B2 (pessimist)"
-    excerpt: "Unlimited availability of weapons and resource scarcity culminate in several limited armed conflicts"
-  - title: "D (innovator)"
-    excerpt: "Civic technologies reinvent national level democracy and increase stability"
+toc_icon: "cog"
 ---
-
-# Armed Conflicts
 
 Interstate conflicts, military interventions, terrorism and civil war create 
 conditions for affected populations to engage in asylum-seeking migration. In 
 some areas these situations, or the risk thereof, are increasing.
 
-{% include feature_row id="factor_expression_row1" %}
+# A (optimist)
 
-{% include feature_row id="factor_expression_row2" %}
+Transparency, participation, social cohesion lead to fewer conflicts on a national and international level
+
+* More democratic and less corrupt political movements gain the upper hand because of increased transparency 
+* Driving forces of armed con-flicts (e.g. resource scarcity) are less relevant because of new technology
+* Education and access to in-formation increase under-standing
+* International peace organisa-tions help reduce armed con-flicts
+* Conflicting interests resolved within international and re-gional fora
+
