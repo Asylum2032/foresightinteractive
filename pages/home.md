@@ -92,3 +92,7 @@ sketch of a future world, and not meant as a prediction of truth.
 
 {% include feature_row id="scenario_red" type="right" %}
 
+# Factors
+
+# Challenges
+

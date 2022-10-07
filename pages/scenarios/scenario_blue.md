@@ -5,22 +5,8 @@ permalink: scenarios/blue/
 header:
     overlay_image: /assets/images/image_blue.jpg
 toc: true
-toc_label: "Scenario Title"
-toc_icon: "cog"    
-persona_1:
-  - image_path: /assets/images/image_yellow.jpg
-    title: "Placeholder Persona 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-persona_2:    
-  - image_path: /assets/images/image_yellow.jpg
-    title: "Placeholder Persona 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+toc_label: "Circling Sharks and Orcas"
+toc_icon: "cog"
 ---
 
 # Scenario World Narrative
@@ -55,8 +41,21 @@ The **widespread adoption of artificial intelligence-based analytical technologi
 
 Extensive international efforts aimed at avoiding regime change and **improving the economic situation in the global South** to stabilise the situation are proving somewhat successful and are to some extent narrowing the economic migration. **Mixed migration has therefore become less diverse with respect to migrants’ countries of origin and educational background.** There is technological competition between the two blocs. In one block, digital platforms that are characterised by state-controlled surveillance. **Digital literacy has become a crucial prerequisite skill** for navigating the international protection procedures. 
 
+# Personas
 
+## Persona A
 
-{% include feature_row id="persona_1" type="left" %}
+text
 
-{% include feature_row id="persona_2" type="left" %}
+## Persona b
+
+more text
+
+# Scenario Challenges
+
+## Geo-Political Challenges
+ 
+* The quota system regarding the total number of asylum seekers allowed to apply for international protection creates a significant challenge for institutions to navigate. As this represents a fundamental shift in the legal basis for international protection, such a move would require new approaches to pre-assessing potential applicants. 
+* The quota system might lead to a situation where people have been granted international protection status, but access to the receiving country is delayed because the quota is already filled. In these cases, the complicated task of safeguarding refugees may become a new obligation. 
+* Similarly, the scenario postulates that some refugees might be denied access to transit countries, even if their applications have been remotely processed and granted protection. This again sets up the question of responsibility for the care-taking of refugees pre-arrival.
+
