@@ -1,4 +1,4 @@
-title: Humming Bees on the Global Meadows
+title: Contact Us
 layout: single
 permalink: /contact/
 header:
