@@ -37,6 +37,19 @@ scenario_red:
     btn_class: "btn--primary"
 ---
 
+# Scenarios
+The scenario development process began with the identification of a number of 
+factors that were both external to the EU+ countries and driving change in 
+international protection. Based on them, the process of scenario development 
+followed during three workshops with EUAA staff, representatives of national 
+asylum authorities and partner EU institutions. At the end of a multi-workshop 
+scenario development process, four unique and viable future scenarios were 
+refined in preparation for the scenario analysis process. Each of these scenarios 
+centres around three of the most impactful and uncertain factors and details how 
+developments among those key factors infer coinciding and coherent developments 
+in the other factors.
+
+
 {% include feature_row id="scenario_yellow" type="left" %}
 
 {% include feature_row id="scenario_blue" type="right" %}
@@ -47,7 +60,8 @@ scenario_red:
 
 # Factors
 
-Factor introduction text goes here. [Find a list of key factors here.](/foresightinteractive/factors/hub)
+To develop coherent and useful alternative future scenarios, it is first necessary to gather, organise, and assess information about key factors that are influencing the development of international protection and asylum-related migration. We use the term factor to encompass trends, emerging issues and novel developments (i.e. social phenomena or technology uses) that drive or shape changes related to international protection in the future. Research activities included a literature review and expert interviews with EUAA staff, and resulted in an organised collection of initial factors for use in the workshop process.
+[Find a list of key factors here.](/foresightinteractive/factors/hub)
 
 # Challenges
 
