@@ -1,6 +1,8 @@
 main:
   - title: Home
     url: /
+  - title: Scenarios
+    url: /scenarios/hub
   - title: Challenges
     url: /challenges/hub
   - title: Key Factors
