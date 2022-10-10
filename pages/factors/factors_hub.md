@@ -74,7 +74,7 @@ factor_expression_11:
     btn_class: "btn--primary"
 ---
 
-Introductory text should go here.
+To develop coherent and useful alternative future scenarios, it is first necessary to gather, organise, and assess information about key factors that are influencing the development of international protection and asylum-related migration. We use the term factor to encompass trends, emerging issues and novel developments (i.e. social phenomena or technology uses) that drive or shape changes related to international protection in the future. Research activities included a literature review and expert interviews with EUAA staff, and resulted in an organised collection of initial factors for use in the workshop process.
 
 # Armed Conflict
 
