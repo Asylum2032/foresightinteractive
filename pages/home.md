@@ -7,7 +7,7 @@ header:
 img_scenario_overlap:
   - image_path: /assets/images/ScenarioOverlap.jpg
     alt: "Macro-tensions defining the scenario space. Overlap of scenarios to explore key issues, trends, and possibilities."
-    title: "Macro-tensions defining the scenario space. Overlap of scenarios to explore key issues, trends, and possibilities.
+    title: "Macro-tensions defining the scenario space. Overlap of scenarios to explore key issues, trends, and possibilities."
 ---
 
 This report is the culmination of a multi-phase foresight project undertaken by the European Union Agency for Asylum (EUAA) to better understand the complex interactions that are shaping the futures of international protection. The bulk of this report presents four scenarios that present alternative images of plausible futures from the year 2032. Each scenario accounts for divergent developments of key factors that are together shaping the outlook on international protection through the year 2030. These scenarios are particularly concerned with the development of key factors _external_ to the European Union, including global armed conflict, impacts of climate change, food and water scarcity, and developing digital technologies. For all of these key factors, each scenario narrative outlines how the factors develop and interact to create fundamentally new global conditions. 
