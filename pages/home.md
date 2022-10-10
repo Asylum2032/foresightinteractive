@@ -58,7 +58,7 @@ in the other factors.
 
 # Factors
 
-Factor introduction text goes here. [Find a list of key factors here.](/factors/hub)
+Factor introduction text goes here. [Find a list of key factors here.](/foresightinteractive/factors/hub)
 
 # Challenges
 
@@ -66,4 +66,4 @@ While outlining challenges for any given scenario is a useful exercise, the
 strategic purpose of the scenario development process is to help an organisation 
 prepare for a wide spectrum of possible futures. Identifying critical challenges 
 present across the scenarios helps to prioritise as well as build preparedness 
-and resilience. [Find more information at the Challenges Hub.](/challenges/hub)
+and resilience. [Find more information at the Challenges Hub.](/foresightinteractive/challenges/hub)
