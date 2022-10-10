@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /scenarios/hub
 header:
     overlay_image: /assets/images/image_yellow.jpg
