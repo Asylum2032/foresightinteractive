@@ -36,16 +36,6 @@ plugins:
   - jekyll-include-cache
 #  - jekyll-feed
 
-# Site Footer
-footer:
-  links:
-    - label: "Fraunhofer ISI"
-      icon: assets/images/ISI-LOGO_Clear_sm.png
-      url: "https://www.isi.fraunhofer.de/"
-    - label: "EUAA"
-      icon: assets/images/EUAA-logo.png
-      url: "https://euaa.europa.eu/"
-
 atom_feed:
   hide: true
 
