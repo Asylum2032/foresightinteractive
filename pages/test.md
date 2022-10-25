@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /test
+permalink: /test/
 header:
     overlay_image: /assets/images/image_yellow.jpg
 
