@@ -1,6 +1,6 @@
 ---
 title: Sleeping Leopard in a Paper Cage
-layout: single
+layout: splash
 permalink: /scenarios/green/
 header:
     overlay_image: /assets/images/image_green.jpg
@@ -18,6 +18,12 @@ persona_2:
 ---
 
 # Scenario World Narrative
+
+{% raw %}
+
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=-1479,1248,2387,1142&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+
+{% endraw %}
 
 ## Unofficial agreement of international zones of influence
 

@@ -1,6 +1,6 @@
 ---
 title: Circling Sharks and Orcas
-layout: single
+layout: splash
 permalink: scenarios/blue/
 header:
     overlay_image: /assets/images/image_blue.jpg
@@ -10,6 +10,12 @@ toc_icon: "cog"
 ---
 
 # Scenario World Narrative
+
+{% raw %}
+
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=-1404,-6872,2462,1172&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+
+{% endraw %}
 
 ## Tense but stable geopolitical situation
 

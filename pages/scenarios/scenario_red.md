@@ -1,6 +1,6 @@
 ---
 title: Caimans and Piranhas in a Drying Pond
-layout: single
+layout: splash
 permalink: /scenarios/red/
 header:
     overlay_image: /assets/images/image_red.jpg
@@ -18,6 +18,12 @@ persona_2:
 ---
 
 # Scenario World Narrative
+
+{% raw %}
+
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=5539,-2323,2516,1190&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+
+{% endraw %}
 
 ## Disruptions to food supply systems triggered by extreme weather events
 

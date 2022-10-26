@@ -1,6 +1,6 @@
 ---
 title: Humming Bees on the Global Meadows
-layout: single
+layout: splash
 permalink: /scenarios/yellow/
 header:
     overlay_image: /assets/images/image_yellow.jpg
@@ -19,7 +19,15 @@ feature_row2:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
+
+
 # Scenario World Narrative
+
+{% raw %}
+
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=-7417,-2799,2516,1190&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+
+{% endraw %}
 
 ## More democracy and economic progress
 
