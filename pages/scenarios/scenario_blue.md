@@ -7,6 +7,18 @@ header:
 toc: true
 toc_label: "Circling Sharks and Orcas"
 toc_icon: "cog"
+
+persona_1:
+  - image_path: /assets/images/Tadesse.jpg
+    title: "Tadesse"
+    excerpt: "Tadesse is from Tigray in Ethiopia, wherein the national government continues to persecute and evict people from their tribal lands. He is 18 years old (though he is claiming to be 16 in the asylum application process) and he is currently in Sudan having arrived as a part of a caravan that cost him all of his money. The human traffickers that helped him get to Sudan insist that he still owes money and that he can only pay his debts if he assists them in further human trafficking activities. He wants to escape to Europe and has started taking up as much work as he can find (e.g. construction, courier, cleaning). He has some level of schooling, though he was forced to drop out when his father was killed as a member of the Tigray People’s Liberation Front. He inherited the family farm but was evicted through persecution and official corruption. He is travelling alone and has many fears of being killed or imprisoned if caught by police or soldiers, but he is confident that the story of his tribe’s persecution is so well-known (through non-governmental organisation (NGO) reports and social media news) that his application will be accepted. As his official passport and national ID card were lost during the journey, he has facial biometrics and fluency in his native language as primary ID documents (though he does have digital pictures of those documents on a Chinese social media platform). He wants to go to Europe, where many other Ethiopians on social media have assured him that he will receive good social benefits as a minor. He is concerned that invasive medical procedures will unveil his true age, that he will not be welcomed in his destination country and that he will be returned to Ethiopia even as he waits on his application. However, if he is forced to go back, he will be able to protect his younger brothers and seek revenge for the killing of his father."
+
+persona_2:    
+  - image_path: /assets/images/Hajar.jpg
+    title: "Hajar"
+    excerpt: "Hajar lives in the town of Ashgabat in Turkmenistan (Baloch). She is 37 years old and is being evicted from her home by the pressures of a foreign mining company. To fight against this eviction and for worker rights in general, she has become very politically active and is now being persecuted for her activism. She has a university degree and used to work for a mining company as an administrative assistant at the company’s headquarters in the capital. She has gathered supporters from the mining company’s home nation, secured the legal assistance of an NGO and has evidence of the violence she faces in her current location. As a single mother who is also pregnant, she has some anxieties regarding the international protection journey and process, but the father of her children is currently working in Europe where she will be applying for international protection. She speaks Russian and English and would like to find employment that matches her qualifications, so as to continue to climb in her career."
+  
+
 ---
 
 # Scenario World Narrative
@@ -49,13 +61,11 @@ Extensive international efforts aimed at avoiding regime change and **improving 
 
 # Personas
 
-## Persona A
+{% include feature_row id="persona_2" type="left" %}
 
-Tadesse is from Tigray in Ethiopia, wherein the national government continues to persecute and evict people from their tribal lands. He is 18 years old (though he is claiming to be 16 in the asylum application process) and he is currently in Sudan having arrived as a part of a caravan that cost him all of his money. The human traffickers that helped him get to Sudan insist that he still owes money and that he can only pay his debts if he assists them in further human trafficking activities. He wants to escape to Europe and has started taking up as much work as he can find (e.g. construction, courier, cleaning). He has some level of schooling, though he was forced to drop out when his father was killed as a member of the Tigray People’s Liberation Front. He inherited the family farm but was evicted through persecution and official corruption. He is travelling alone and has many fears of being killed or imprisoned if caught by police or soldiers, but he is confident that the story of his tribe’s persecution is so well-known (through non-governmental organisation (NGO) reports and social media news) that his application will be accepted. As his official passport and national ID card were lost during the journey, he has facial biometrics and fluency in his native language as primary ID documents (though he does have digital pictures of those documents on a Chinese social media platform). He wants to go to Europe, where many other Ethiopians on social media have assured him that he will receive good social benefits as a minor. He is concerned that invasive medical procedures will unveil his true age, that he will not be welcomed in his destination country and that he will be returned to Ethiopia even as he waits on his application. However, if he is forced to go back, he will be able to protect his younger brothers and seek revenge for the killing of his father.
+{% include feature_row id="persona_1" type="right" %}
 
-## Persona B
 
-Hajar lives in the town of Ashgabat in Turkmenistan (Baloch). She is 37 years old and is being evicted from her home by the pressures of a foreign mining company. To fight against this eviction and for worker rights in general, she has become very politically active and is now being persecuted for her activism. She has a university degree and used to work for a mining company as an administrative assistant at the company’s headquarters in the capital. She has gathered supporters from the mining company’s home nation, secured the legal assistance of an NGO and has evidence of the violence she faces in her current location. As a single mother who is also pregnant, she has some anxieties regarding the international protection journey and process, but the father of her children is currently working in Europe where she will be applying for international protection. She speaks Russian and English and would like to find employment that matches her qualifications, so as to continue to climb in her career. 
 
 # Scenario Challenges
 

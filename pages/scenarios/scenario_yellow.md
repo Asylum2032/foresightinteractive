@@ -17,6 +17,15 @@ feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 4"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+persona_1:
+  - image_path: /assets/images/Ahn.jpg
+    title: "Ahn"
+    excerpt: "Ahn is a 22-year-old female, currently living in Hong Kong. Her main motivation for seeking international protection is to pursue better economic opportunities, but she has proof of being persecuted for online activities in support of political protests. She has extensive experience in IT, having worked as a developer of academic software and she has personal savings denominated in several Bitcoins. She has all of the relevant documentation she might need stored on a verifiable blockchain and she is aware of most application procedures through knowledge gained from internet research. Her only concerns are that her digital identification documents might not be accurately interpreted during application assessment and that her family might have to join her if they are persecuted for her behaviour and her seeking asylum."
+persona_2:    
+  - image_path: /assets/images/Nage.jpg
+    title: "Nage"
+    excerpt: "Nage, a 25-year-old female from a small village in Ethiopia, is now located in Turkey and is considering applying for international protection. Her village became uninhabitable due to climate change and the money she earned as a farmer was no longer sufficient. She obtained only primary level education and can perform very little outside of agricultural work. She has been told to trust in the goodness of people during the asylum application process and that her story will be enough to convince any case worker of her need for international protection. She has a letter from her village chief attesting to her identity and she has multiple members of her family with her in Turkey who will also be applying for asylum. She has gained most of her knowledge about the process from her personal social media groups. Her biggest fear is that they will send her back and she is already feeling quite sick and weak."
 ---
 
 
@@ -57,11 +66,9 @@ Virtual spaces blur the line between physical and digital life in the social and
 
 # Personas
 
-## Persona A
-Ahn is a 22-year-old female, currently living in Hong Kong. Her main motivation for seeking international protection is to pursue better economic opportunities, but she has proof of being persecuted for online activities in support of political protests. She has extensive experience in IT, having worked as a developer of academic software and she has personal savings denominated in several Bitcoins. She has all of the relevant documentation she might need stored on a verifiable blockchain and she is aware of most application procedures through knowledge gained from internet research. Her only concerns are that her digital identification documents might not be accurately interpreted during application assessment and that her family might have to join her if they are persecuted for her behaviour and her seeking asylum.   
+{% include feature_row id="persona_1" type="left" %}
 
-## Persona B
-Nage, a 25-year-old female from a small village in Ethiopia, is now located in Turkey and is considering applying for international protection. Her village became uninhabitable due to climate change and the money she earned as a farmer was no longer sufficient. She obtained only primary level education and can perform very little outside of agricultural work. She has been told to trust in the goodness of people during the asylum application process and that her story will be enough to convince any case worker of her need for international protection. She has a letter from her village chief attesting to her identity and she has multiple members of her family with her in Turkey who will also be applying for asylum. She has gained most of her knowledge about the process from her personal social media groups. Her biggest fear is that they will send her back and she is already feeling quite sick and weak. 
+{% include feature_row id="persona_2" type="right" %}
 
 # Scenario Challenges 
 
