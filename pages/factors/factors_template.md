@@ -3,24 +3,23 @@ title: Factor Title
 layout: single
 permalink: /factor_template/
 header:
-    overlay_image: /assets/images/image_yellow.jpg
+    overlay_image: /assets/factor_graphics/001-Armed Conflict.svg
 toc: true
 toc_label: "Factor Title"
 toc_icon: "cog"
 ---
+# Factor Title
 
-# Factor A heading
-
-Some text.
-
-* bullet point
-* another bullet point
-
-# Factor B heading
-
-Some text.
-
-* bullet point
-* another bullet point
+# A (Optimist)
 
 
+# B (Pessimist)
+
+
+# C1 (Mediator)
+
+
+# C2 (Mediator)
+
+
+# D (Innovator)

@@ -1,6 +1,6 @@
 ---
 title: Factors
-layout: single
+layout: splash
 permalink: /factors/hub
 header:
     overlay_image: /assets/images/image_yellow.jpg
@@ -20,7 +20,7 @@ factor_expression_2:
     btn_class: "btn--primary"   
 factor_expression_3:
   - image_path: /assets/factor_graphics/003-Economic inequality.svg
-    excerpt: "Disparity in wealth, income opportunities and access to services (healthcare, etc.) creating conditions for increased social pressures that lead to op-pression. This also relates to trends in mixed migration and is reflective of economic differences between countries of origin and destination."
+    excerpt: "Disparity in wealth, income opportunities and access to services (healthcare, etc.) creating conditions for increased social pressures that lead to oppression. This also relates to trends in mixed migration and is reflective of economic differences between countries of origin and destination."
     url: /factors/economic_inequalities
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -62,7 +62,7 @@ factor_expression_9:
     btn_class: "btn--primary"
 factor_expression_10:    
   - image_path: /assets/factor_graphics/010-Automation and Databases.svg
-    excerpt: "Artificial Intelligence (AI) and Machine Learning methods can automate identity verification. The databases these technologies rely on are heterogene-ous, partial and vulnerable to exploitation."
+    excerpt: "Artificial Intelligence (AI) and Machine Learning methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation."
     url: /factors/automation_databases
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -74,7 +74,19 @@ factor_expression_11:
     btn_class: "btn--primary"
 ---
 
+
+
+
 To develop coherent and useful alternative future scenarios, it is first necessary to gather, organise, and assess information about key factors that are influencing the development of international protection and asylum-related migration. We use the term factor to encompass trends, emerging issues and novel developments (i.e. social phenomena or technology uses) that drive or shape changes related to international protection in the future. Research activities included a literature review and expert interviews with EUAA staff, and resulted in an organised collection of initial factors for use in the workshop process.
+
+
+<p>
+
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=-4069,3175,17430,5437&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen="" align="left"></iframe>
+
+</p>
+
+
 
 # Armed Conflict
 
