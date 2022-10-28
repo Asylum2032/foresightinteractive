@@ -29,16 +29,6 @@ This is another test for embedding Miro Boards on the site.
 <iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=-2478,-2436,4711,2672&amp;embedAutoplay=true" width="1235" height="932" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 {% endraw %}
 
-Yet another test with our own Miro Board.
-
-{% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" no_link %}
-
-This is a test for displaying PDFs on the site. 
-
-{% pdf "/assets/pdfs/TestMiro.pdf" no_link %}
-
-This is another test for displaying PDFs on the site. (Why doesn't it work???)
-
 {% include figure image_path="/assets/images/ScenarioOverlap.jpg" alt="Macro-tensions defining the scenario space. Overlap of scenarios to explore key issues, trends, and possibilities." caption="Macro-tensions defining the scenario space. Overlap of scenarios to explore key issues, trends, and possibilities." %}
 
 This is a test image for a test site.
