@@ -3,7 +3,7 @@ title: Factors
 layout: splash
 permalink: /factors/hub
 header:
-    overlay_image: /assets/images/image_yellow.jpg
+    overlay_image: /assets/images/image_header.jpg
 factor_expression_1:
   - image_path: /assets/factor_graphics/001-Armed Conflict.svg
     excerpt: "Interstate conflicts, military interventions, terrorism and civil war create 

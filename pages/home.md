@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-    overlay_image: /assets/images/image_yellow.jpg
+    overlay_image: /assets/images/image_header.jpg
 
 img_scenario_overlap:
   - image_path: /assets/images/ScenarioOverlap.jpg
