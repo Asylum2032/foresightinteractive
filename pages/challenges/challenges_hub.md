@@ -2,6 +2,8 @@
 title: Challenges
 layout: single
 permalink: /challenges/hub
+header:
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Scenario Challenges"
 toc_icon: "cog"
