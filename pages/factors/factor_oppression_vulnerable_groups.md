@@ -1,6 +1,6 @@
 ---
 title: Oppression of Vulnerable Groups
-layout: single
+layout: splash
 permalink: /factors/oppression_vulnerable_groups
 header:
     overlay_image: /assets/images/image_header.jpg

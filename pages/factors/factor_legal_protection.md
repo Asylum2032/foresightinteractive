@@ -1,6 +1,6 @@
 ---
 title: Legal Pathways to International Protection 
-layout: single
+layout: splash
 permalink: /factors/legal_protection
 header:
     overlay_image: /assets/images/image_header.jpg

@@ -1,6 +1,6 @@
 ---
 title: Automation and Databases
-layout: single
+layout: splash
 permalink: /factors/automation_databases
 header:
     overlay_image: /assets/images/image_header.jpg

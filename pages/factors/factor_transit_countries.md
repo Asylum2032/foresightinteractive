@@ -1,6 +1,6 @@
 ---
 title: Transit Countries Roles
-layout: single
+layout: splash
 permalink: /factors/transit_countries
 header:
     overlay_image: /assets/images/image_header.jpg

@@ -1,6 +1,6 @@
 ---
 title: Food & Water Insecurity
-layout: single
+layout: splash
 permalink: /factors/food_water_insecurity
 header:
     overlay_image: /assets/images/image_header.jpg

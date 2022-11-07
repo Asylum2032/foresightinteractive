@@ -1,6 +1,6 @@
 ---
 title: Regime protection, state violence and disputed changes in land use
-layout: single
+layout: splash
 permalink: /factors/land_use
 header:
     overlay_image: /assets/images/image_header.jpg

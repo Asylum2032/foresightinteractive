@@ -1,6 +1,6 @@
 ---
 title: Surveillance, Security and Digital Warfare
-layout: single
+layout: splash
 permalink: /factors/digital
 header:
     overlay_image: /assets/images/image_header.jpg

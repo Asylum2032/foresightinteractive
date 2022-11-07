@@ -1,6 +1,6 @@
 ---
 title: Factor Title
-layout: single
+layout: splash
 permalink: /factor_template/
 header:
     overlay_image: /assets/images/image_header.jpg

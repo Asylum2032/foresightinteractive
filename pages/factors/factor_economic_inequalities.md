@@ -1,6 +1,6 @@
 ---
 title: Economic Inequalities
-layout: single
+layout: splash
 permalink: /factors/economic_inequalities
 header:
     overlay_image: /assets/images/image_header.jpg

@@ -1,6 +1,6 @@
 ---
 title: Armed Conflicts
-layout: single
+layout: splash
 permalink: /factors/armed_conflicts
 header:
     overlay_image: /assets/images/image_header.jpg

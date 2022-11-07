@@ -1,6 +1,6 @@
 ---
 title: Climate Change Induced Displacement
-layout: single
+layout: splash
 permalink: /factors/climate_change_displacement
 header:
     overlay_image: /assets/images/image_header.jpg

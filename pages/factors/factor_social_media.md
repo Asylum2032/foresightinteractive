@@ -1,6 +1,6 @@
 ---
 title: Social Media
-layout: single
+layout: splash
 permalink: /factors/social_media
 header:
     overlay_image: /assets/images/image_header.jpg
