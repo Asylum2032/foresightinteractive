@@ -1,6 +1,6 @@
 ---
 title: Challenges
-layout: single
+layout: splash
 permalink: /challenges/hub
 header:
     overlay_image: /assets/images/image_header.jpg
