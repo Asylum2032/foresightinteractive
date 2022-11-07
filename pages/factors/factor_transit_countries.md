@@ -9,10 +9,14 @@ toc_label: "Transit Countries Roles"
 toc_icon: "cog"
 ---
 
+![image-left](/foresightinteractive/assets/factor_graphics/002-TransitCountryRoles-small.png){: .align-left }
+
 # Transit Countries Roles
 
 Transit nations serve as a mode of containment, hold the possibility for 
 increased externalisation and might instrumentalise asylum-seeking migrants.
+
+|
 
 ## A (Optimist)
 
