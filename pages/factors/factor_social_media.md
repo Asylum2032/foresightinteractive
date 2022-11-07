@@ -9,7 +9,12 @@ toc_label: "Social Media"
 toc_icon: "cog"
 ---
 
+![image-left](/foresightinteractive/assets/factor_graphics/011-Social Media-small.png){: .align-left }
+
 # Social Media
+Most social media platforms emerged fewer than 10 years ago, yet they have fundamentally shifted information gathering, organising, networking and communications activities for asylum-seekers and receiving countries. Platforms can also be used and targeted by governments.
+
+|
 
 # A (Optimist)
 Regulated, mediated and trustworthy social media provide reliable information while respecting privacy by default

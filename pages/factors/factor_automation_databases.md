@@ -9,7 +9,13 @@ toc_label: "Automation and Databases"
 toc_icon: "cog"
 ---
 
+![image-left](/foresightinteractive/assets/factor_graphics/010-Automation and Databases-small.png){: .align-left }
+
 # Automation and Databases
+Artificial Intelligence (AI) and Machine Learning methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation.
+
+|
+
 # A (optimist)
 User-controlled private data enables reliable and faster AI-based application processing and environmental monitoring
 * Shared guidelines and security measures that are in place and taken up by everyone, exceptionally user-friendly

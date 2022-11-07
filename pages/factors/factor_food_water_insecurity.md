@@ -9,8 +9,12 @@ toc_label: "Food & Water Insecurity"
 toc_icon: "cog"
 ---
 
+![image-left](/foresightinteractive/assets/factor_graphics/006-Food and Water Insecurity-small.png){: .align-left }
+
 # Food & Water Insecurity 
 As a prolonged shortage in water supply (precipitation, surface water and ground water) impacts (e.g. food insecurities) heighten, social pressure trans-forms into political oppression. Similar dynamics can be observed with scarcity of other resources.
+
+|
 
 # A (Optimist)
 Increasingly resilient agriculture systems with more equitable distribution of food and water 

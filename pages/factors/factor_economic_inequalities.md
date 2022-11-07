@@ -8,7 +8,15 @@ toc: true
 toc_label: "Economic Inequalities"
 toc_icon: "cog"
 ---
+
+![image-left](/foresightinteractive/assets/factor_graphics/003-Economic inequality-small.png){: .align-left }
+
 # Economic Inequalities
+
+Disparity in wealth, income opportunities and access to services (healthcare, etc.) creating conditions for increased social pressures that lead to oppression. This also relates to trends in mixed migration and is reflective of economic differences between countries of origin and destination.
+
+|
+
 # A (Optimist)
 Global initiatives and rapid economic development reduce mixed migration
 * Indebted countries have loans forgiven (China) allowing them to reinvest in society
