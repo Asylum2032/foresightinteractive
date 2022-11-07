@@ -1,8 +1,6 @@
 ---
 layout: splash
 permalink: /scenarios/hub
-header:
-    overlay_image: /assets/images/image_header_grey.jpg
 scenario_yellow:
   - image_path: /assets/images/image_yellow.jpg
     alt: "placeholder image 1"
