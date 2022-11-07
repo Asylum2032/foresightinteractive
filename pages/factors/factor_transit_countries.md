@@ -3,7 +3,7 @@ title: Transit Countries Roles
 layout: single
 permalink: /factors/transit_countries
 header:
-    overlay_image: /assets/factor_graphics/002-TransitCountryRoles.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Transit Countries Roles"
 toc_icon: "cog"

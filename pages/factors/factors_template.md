@@ -3,7 +3,7 @@ title: Factor Title
 layout: single
 permalink: /factor_template/
 header:
-    overlay_image: /assets/factor_graphics/001-Armed Conflict.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Factor Title"
 toc_icon: "cog"

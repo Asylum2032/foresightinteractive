@@ -3,7 +3,7 @@ title: Surveillance, Security and Digital Warfare
 layout: single
 permalink: /factors/digital
 header:
-    overlay_image: /assets/factor_graphics/008-Surveillance Security Digital Warfare.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Surveillance, Security and Digital Warfare"
 toc_icon: "cog"

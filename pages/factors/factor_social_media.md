@@ -3,7 +3,7 @@ title: Social Media
 layout: single
 permalink: /factors/social_media
 header:
-    overlay_image: /assets/factor_graphics/011-Social Media.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Social Media"
 toc_icon: "cog"

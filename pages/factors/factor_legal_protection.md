@@ -3,7 +3,7 @@ title: Legal Pathways to International Protection
 layout: single
 permalink: /factors/legal_protection
 header:
-    overlay_image: /assets/factor_graphics/007-Legal Pathways to International Protection.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Legal Pathways to International Protection"
 toc_icon: "cog"

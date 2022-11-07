@@ -3,7 +3,7 @@ title: Oppression of Vulnerable Groups
 layout: single
 permalink: /factors/oppression_vulnerable_groups
 header:
-    overlay_image: /assets/factor_graphics/004-Oppression of Vulnerable groups.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Oppression of Vulnerable Groups"
 toc_icon: "cog"

@@ -3,7 +3,7 @@ title: Climate Change Induced Displacement
 layout: single
 permalink: /factors/climate_change_displacement
 header:
-    overlay_image: /assets/images/005-Climate Change InduedDisplacement.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Climate Change Induced Displacement"
 toc_icon: "cog"

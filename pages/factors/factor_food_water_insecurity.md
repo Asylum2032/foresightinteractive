@@ -3,7 +3,7 @@ title: Food & Water Insecurity
 layout: single
 permalink: /factors/food_water_insecurity
 header:
-    overlay_image: /assets/factor_graphics/006-Food and Water Insecurity.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Food & Water Insecurity"
 toc_icon: "cog"

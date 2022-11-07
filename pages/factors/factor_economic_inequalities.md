@@ -3,7 +3,7 @@ title: Economic Inequalities
 layout: single
 permalink: /factors/economic_inequalities
 header:
-    overlay_image: /assets/factor_graphics/003-Economic inequality.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Economic Inequalities"
 toc_icon: "cog"

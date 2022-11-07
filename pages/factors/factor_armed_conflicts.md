@@ -3,7 +3,7 @@ title: Armed Conflicts
 layout: single
 permalink: /factors/armed_conflicts
 header:
-    overlay_image: /assets/factor_graphics/001-Armed Conflict.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: false
 toc_label: "Armed Conflicts"
 toc_icon: "cog"

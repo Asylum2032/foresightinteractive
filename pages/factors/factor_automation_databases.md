@@ -3,7 +3,7 @@ title: Automation and Databases
 layout: single
 permalink: /factors/automation_databases
 header:
-    overlay_image: /assets/factor_graphics/010-Automation and Databases.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Automation and Databases"
 toc_icon: "cog"

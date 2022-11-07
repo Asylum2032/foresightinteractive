@@ -3,7 +3,7 @@ title: Regime protection, state violence and disputed changes in land use
 layout: single
 permalink: /factors/land_use
 header:
-    overlay_image: /assets/factor_graphics/009-Regime Protection State Violence Land Use.svg
+    overlay_image: /assets/images/image_header.jpg
 toc: true
 toc_label: "Regime protection, state violence and disputed changes in land use"
 toc_icon: "cog"
