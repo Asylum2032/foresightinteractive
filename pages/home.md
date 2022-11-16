@@ -10,7 +10,7 @@ img_scenario_overlap:
     title: "Macro-tensions defining the scenario space. Overlap of scenarios to explore key issues, trends, and possibilities."
 
 scenario_hub:
-  - image_path: /assets/images/Scenarios_stylized.png
+  - image_path: /assets/images/ScenarioArtboard.png
     alt: "scenario logo stylized"
     title: "Scenario Hub"
     excerpt: "Explore the Asylum Scenarios 2032"
