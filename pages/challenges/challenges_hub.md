@@ -26,10 +26,10 @@ Transit countries, and differing strategies to building relationships with them,
 
 ## See how it plays out in our scenarios
 
-* [Humming Bees on the Global Meadows](/scenarios/yellow/#geo-political-challenges)
-* [Circling Sharks and Orcas](/scenarios/blue/#geo-political-challenges)
-* [Sleeping Leopard in a Paper Cage](/scenarios/green/#geo-political-challenges)
-* [Caimans and Piranhas in a Drying Pond](/scenarios/red/#geo-political-challenges)
+* [Humming Bees on the Global Meadows](/foresightinteractive/scenarios/yellow/#geo-political-challenges)
+* [Circling Sharks and Orcas](/foresightinteractive/scenarios/blue/#geo-political-challenges)
+* [Sleeping Leopard in a Paper Cage](/foresightinteractive/scenarios/green/#geo-political-challenges)
+* [Caimans and Piranhas in a Drying Pond](/foresightinteractive/scenarios/red/#geo-political-challenges)
 
 
 # Challenge Cluster 2: Digitalisation and Data
@@ -51,10 +51,10 @@ Global differentiation of data standards, platforms, social media and the increa
 
 ## See how it plays out in our scenarios
 
-* [Humming Bees on the Global Meadows](/scenarios/yellow/#digitalisation-and-data-challenges)
-* [Circling Sharks and Orcas](/scenarios/blue/#digitalisation-and-data-challenges)
-* [Sleeping Leopard in a Paper Cage](/scenarios/green/#digitalisation-and-data-challenges)
-* [Caimans and Piranhas in a Drying Pond](/scenarios/red/#digitalisation-and-data-challenges)
+* [Humming Bees on the Global Meadows](/foresightinteractive/scenarios/yellow/#digitalisation-and-data-challenges)
+* [Circling Sharks and Orcas](/foresightinteractive/scenarios/blue/#digitalisation-and-data-challenges)
+* [Sleeping Leopard in a Paper Cage](/foresightinteractive/scenarios/green/#digitalisation-and-data-challenges)
+* [Caimans and Piranhas in a Drying Pond](/foresightinteractive/scenarios/red/#digitalisation-and-data-challenges)
 
 # Challenge Cluster 3: Climate Change and Resources
 
@@ -72,7 +72,7 @@ Within the framework of the scenario process, it was disputed whether there coul
 
 ## See how it plays out in our scenarios
 
-* [Humming Bees on the Global Meadows](/scenarios/yellow/#climate-change-challenges)
-* [Circling Sharks and Orcas](/scenarios/blue/#climate-change-challenges)
-* [Sleeping Leopard in a Paper Cage](/scenarios/green/#climate-change-challenges)
-* [Caimans and Piranhas in a Drying Pond](/scenarios/red/#climate-change-challenges)
+* [Humming Bees on the Global Meadows](/foresightinteractive/scenarios/yellow/#climate-change-challenges)
+* [Circling Sharks and Orcas](/foresightinteractive/scenarios/blue/#climate-change-challenges)
+* [Sleeping Leopard in a Paper Cage](/foresightinteractive/scenarios/green/#climate-change-challenges)
+* [Caimans and Piranhas in a Drying Pond](/foresightinteractive/scenarios/red/#climate-change-challenges)
