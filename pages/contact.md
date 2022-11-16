@@ -2,7 +2,7 @@ title: Contact Us
 layout: single
 permalink: /contact/
 header:
-    overlay_image: /assets/images/image_yellow.jpg
+    overlay_image: /assets/images/image_header.jpg
 
 CONTACT US
 

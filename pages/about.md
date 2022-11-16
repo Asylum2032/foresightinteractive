@@ -77,11 +77,13 @@ Phone +49 721 6809-351
 email: elna.schirrmeister [at] isi.fraunhofer.de
 
 ### Concept and design
-Jekyll. Minimal Mistakes
+Jekyll, Minimal Mistakes.
+
 Design: Jan Roerden and Anna Mauz
 
 ### Technical implementation
 Fraunhofer ISI  – Competence Centre Foresight
+
 Webmaster: Jan Roerden and Anna Mauz
 
 #### Picture credits:
@@ -93,9 +95,10 @@ Humming Bees on the Global Meadows, Photo by morais on Unsplash
 
 Sleeping Leopard in a Paper Cage, Photo by Colin Watts on Unsplash
 
-Circling Sharks and Orcas. Photo by Jakob Owens on Unsplash
+Circling Sharks and Orcas, Photo by Jakob Owens on Unsplash
 
-Caimans and Piranhas in a Drying Pond , Photo by Juli Kosolapova on Unsplash
+Caimans and Piranhas in a Drying Pond, Photo by Juli Kosolapova on Unsplash
 
 The images used for the scenario personas were generated with the StableDiffusion text-to-image model under this usage license. Any resemblance to persons living or dead is purely coincidental.
+
 Key Factor Icons: Flaticons License
