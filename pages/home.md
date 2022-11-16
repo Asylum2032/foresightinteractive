@@ -23,7 +23,7 @@ report_link:
     alt: "pdf logo"
     title: "Read the Report"
     excerpt: "A full and a short version of the report is available"
-    url: /documents/
+    url: /documents
     btn_label: "Click here"
     btn_class: "btn--primary"
 ---
