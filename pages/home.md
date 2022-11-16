@@ -34,7 +34,7 @@ Interactively explore the scenarios on Miro:
 
 {% raw %}
 <p>
-<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=3124,-2016,2588,2053&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=50944,-5748,13978,11310&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 </p>
 {% endraw %}
 
