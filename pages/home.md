@@ -32,7 +32,8 @@ There exists no singular future that we are capable of knowing. As such, the pra
 
 Interactively explore the scenarios on Miro:
 
-[Click here for a short introduction on how to navigate on the Miro](/foresightinteractive/assets/video/MiroVideoIntro.mp4)
+<a target="_blank" rel="noopener noreferrer" href="/foresightinteractive/assets/video/MiroVideoIntro.mp4">Click here for a short introduction on how to navigate on the Miro</a>
+
 {% raw %}
 <p>
 <iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=50944,-5748,13978,11310&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
