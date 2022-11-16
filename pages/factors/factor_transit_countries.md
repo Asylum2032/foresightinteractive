@@ -9,7 +9,7 @@ toc_label: "Transit Countries Roles"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/factor_graphics/002-TransitCountryRoles-small.png){: .align-left }
+![image-left](/foresightinteractive/assets/images/transit_nations.jpg){: .align-left }
 
 # Transit Countries Roles
 

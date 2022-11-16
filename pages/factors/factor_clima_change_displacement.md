@@ -9,7 +9,7 @@ toc_label: "Climate Change Induced Displacement"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/factor_graphics/005-Climate Change InduedDisplacement-small.png){: .align-left }
+![image-left](/foresightinteractive/assets/images/ClimateChange.jpg){: .align-left }
 
 # Climate Change Induced Displacement
 Changing environmental conditions lead to justification for permanent displaced populations. Powerful entity takes control of land, displaces previous users, enforces new ownership and management with violent oppression.

@@ -9,7 +9,7 @@ toc_label: "Armed Conflicts"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/factor_graphics/001-Armed Conflict-small.png){: .align-left } 
+![image-left](/foresightinteractive/assets/images/armed_conflict.jpg){: .align-left } 
 
 Interstate conflicts, military interventions, terrorism and civil war create 
 conditions for affected populations to engage in asylum-seeking migration. In 

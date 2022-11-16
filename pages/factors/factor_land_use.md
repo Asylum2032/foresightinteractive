@@ -9,7 +9,7 @@ toc_label: "Regime protection, state violence and disputed changes in land use"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/factor_graphics/009-Regime Protection State Violence Land Use-small.png){: .align-left }
+![image-left](/foresightinteractive/assets/images/RegimeProtection.png){: .align-left }
 
 # Regime protection, state violence and disputed changes in land use
 Regimes controlling wealth generated from exploitation of resources may exercise violent protection against any threats to power.
