@@ -99,6 +99,14 @@ Circling Sharks and Orcas, Photo by Jakob Owens on Unsplash
 
 Caimans and Piranhas in a Drying Pond, Photo by Juli Kosolapova on Unsplash
 
-The images used for the scenario personas were generated with the StableDiffusion text-to-image model under this usage license. Any resemblance to persons living or dead is purely coincidental.
+Key Factor images were AI-generated using Stable Diffusion.
 
-Key Factor Icons: Flaticons License
+#### Disclaimer:
+The images used for the scenario personas are not real people. 
+Any resemblance to persons living or dead is purely coincidental. The images were generated with the StableDiffusion text-to-image model based on this research:
+
+Rombach; Blattmann; Lorenz; Esser; Ommer (June 2022). High-Resolution Image Synthesis with Latent Diffusion Models [(PDF)](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf). International Conference on Computer Vision and Pattern Recognition (CVPR). New Orleans, LA. pp. 10684–10695. [arXiv](https://en.wikipedia.org/wiki/ArXiv):[2112.10752](https://arxiv.org/abs/2112.10752).
+
+and the source code is available, under this [usage license](https://huggingface.co/spaces/CompVis/stable-diffusion-license), here:
+
+["Stable Diffusion Repository on GitHub"](https://github.com/CompVis/stable-diffusion). CompVis - Machine Vision and Learning Research Group, LMU Munich. 17 September 2022. Retrieved 08 November 2022. 

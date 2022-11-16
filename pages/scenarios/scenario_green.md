@@ -60,6 +60,7 @@ One arena in which digital surveillance practice remains particularly divisive i
 Food and water shortages are becoming more habitual, of longer duration and creating more intense scarcity. Despite the deployment of numerous technologies to mitigate **climate change-induced extremes** – heat, drought, desertification, typhoons/hurricanes, floods, etc. – the unpredictability of when, where and at what intensity the effects of climate change may manifest dampens the efficacy of technological solutions. In some areas, where strong support for third countries exists, financial aid and transparent land ownership policies are tied to and allow for localised rebuilding and resettling. However, outside of these supportive conditions, there are many regions where the **migration drivers rooted in environmental changes** are becoming more intense. In these situations, many migrant groups are unable to apply for asylum before ecological disruptions inspire dangerous, life-threatening societal responses, such as forcible displacement, targeted oppression and civil conflicts. 
 
 # Scenario Personas
+Disclaimer: The images used for the scenario personas are not real people. The images were generated using Stable Diffusion [(learn more)](/foresightinteractive/about/#disclaimer-1).
 
 {% include feature_row id="persona_1" type="left" %}
 

@@ -65,7 +65,7 @@ Asylum seekers and other migrant groups are using digital technologies in a numb
 Virtual spaces blur the line between physical and digital life in the social and cultural spheres and enable families to live on a transnational basis. Many education and employment opportunities can be pursued from almost anywhere. Catching up on missed vocational training (during transit or due to conflict) is possible (in conjunction with open online courses) and has been broadly adopted among migrant communities.
 
 # Personas
-
+Disclaimer: The images used for the scenario personas are not real people. The images were generated using Stable Diffusion [(learn more)](/foresightinteractive/about/#disclaimer-1).
 {% include feature_row id="persona_1" type="left" %}
 
 {% include feature_row id="persona_2" type="right" %}
