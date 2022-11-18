@@ -1,19 +1,23 @@
 ---
 layout: splash
-permalink: /documents
+permalink: /reports
 header:
     overlay_image: /assets/images/image_header.jpg
+
+feature_row:
+- image_path: /assets/images/pdf_logo.png
+  title: "Download the Summary Report below:"
+  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  btn_label: "Download"
+  btn_class: "btn--primary"
+- image_path: /assets/images/pdf_logo.png
+  title: "Download the Comprehensive Report below:"
+  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  btn_label: "Download"
+  btn_class: "btn--primary"
+
 ---
 
-You can view and download the project report below.
-
-# Short Report
-
-[Download the short report here.](/foresightinteractive/assets/pdfs/PlaceholderReport.pdf)
-<object data="/foresightinteractive/assets/pdfs/PlaceholderReport.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
-# Full Report
-
-[Download the full report here.](/foresightinteractive/assets/pdfs/PlaceholderReport.pdf)
-<object data="/foresightinteractive/assets/pdfs/PlaceholderReport.pdf" width="1000" height="1000" type='application/pdf'></object>
+{% include feature_row %}

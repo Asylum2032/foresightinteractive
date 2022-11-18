@@ -1,13 +1,13 @@
 main:
   - title: Home
     url: /
+  - title: Key Factors
+    url: /factors/hub
   - title: Scenarios
     url: /scenarios/hub
   - title: Challenges
     url: /challenges/hub
-  - title: Key Factors
-    url: /factors/hub
   - title: About
     url: /about
-  - title: Documents
-    url: /documents
+  - title: Reports
+    url: /reports
