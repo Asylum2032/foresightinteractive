@@ -13,7 +13,7 @@ scenario_hub:
   - image_path: /assets/images/ScenarioArtboard.png
     alt: "scenario logo stylized"
     title: "Scenario Hub"
-    excerpt: "Explore the Asylum Scenarios 2032"
+    excerpt: "Based on the key factors, four unique and viable **future scenarios** were refined. Click on the Button below to explore these scenarios."
     url: /scenarios/hub
     btn_label: "Click here"
     btn_class: "btn--primary"
@@ -44,9 +44,9 @@ It may take some time to load the Miro board, please be patient, it is coming!
 
 To develop coherent and useful alternative future scenarios, first [key factors](factors/hub) that are external to the European Union and influencing the development of international protection and asylum-related migration were identified. Here the term factor refers to trends, emerging issues and novel developments that drive change in international protection. 
 
-Based on the key factors, four unique and viable future **scenarios** were refined. 
 
-{% include feature_row id="scenario_hub" type="right" %}
+
+{% include feature_row id="scenario_hub" type="right" %} 
 
 
 An expert-based **Delphi survey** helped gather quantitative and qualitative expert feedback into the likelihood and anticipated time-horizon for critical aspects of each scenario. 
