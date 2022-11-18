@@ -56,15 +56,3 @@ in the other factors.
 
 {% include feature_row id="scenario_red" type="right" %}
 
-# Factors
-
-To develop coherent and useful alternative future scenarios, it is first necessary to gather, organise, and assess information about key factors that are influencing the development of international protection and asylum-related migration. We use the term factor to encompass trends, emerging issues and novel developments (i.e. social phenomena or technology uses) that drive or shape changes related to international protection in the future. Research activities included a literature review and expert interviews with EUAA staff, and resulted in an organised collection of initial factors for use in the workshop process.
-[Find a list of key factors here.](/foresightinteractive/factors/hub)
-
-# Challenges
-
-While outlining challenges for any given scenario is a useful exercise, the 
-strategic purpose of the scenario development process is to help an organisation 
-prepare for a wide spectrum of possible futures. Identifying critical challenges 
-present across the scenarios helps to prioritise as well as build preparedness 
-and resilience. [Find more information at the Challenges Hub.](/foresightinteractive/challenges/hub)
