@@ -21,7 +21,7 @@ persona_2:
 
 {% raw %}
 
-<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=67323,2076,8204,3581&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=67201,2079,8463,3585&amp;embedAutoplay=true" width="1085" height="582" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 
 {% endraw %}
 

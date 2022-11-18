@@ -13,7 +13,7 @@ To develop coherent and useful alternative future scenarios, it is first necessa
 
 <p>
 
-<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=42210,8737,19293,11217&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen="" align="left"></iframe>
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=42210,8737,19293,11217&amp;embedAutoplay=true" width="1085" height="582" frameborder="0" scrolling="no" allowfullscreen="" align="left"></iframe>
 
 </p>
 

@@ -34,9 +34,11 @@ Interactively explore the scenarios on Miro:
 
 <a target="_blank" rel="noopener noreferrer" href="/foresightinteractive/assets/video/MiroVideoIntro.mp4">Click here for a short introduction on how to navigate on the Miro</a>
 
+It may take some time to load the Miro board, please be patient, it is coming!
+
 {% raw %}
 <p>
-<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=50944,-5748,13978,11310&amp;embedAutoplay=true" width="1235" height="732" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=50944,-5748,13978,11310&amp;embedAutoplay=true" width="1085" height="582" frameborder="0" scrolling="no" allowfullscreen="" align="center"></iframe>
 </p>
 {% endraw %}
 
@@ -55,4 +57,3 @@ At the same time, rapid technological developments in **_Digitalisation and Data
 Lastly, a number of challenges arise with intensifying effects of _**Climate Change and Resources**_ become scarcer or unreliably available. While current international interpretation does not include ‘climate refugees’, changing weather patterns can alter traditional regional agricultural capacities through drought, desertification, flooding, and extreme weather events. While some of these effects may be temporary, displaced populations will strain resources in the regions where they land, and over longer time frames this sets the stage for socio-political disruptions that can create asylum-seekers. As we have recently seen, disruptions to global supply chains including new restrictions, geopolitical tensions, and damages to infrastructure can also set up conditions for the emergence of new international protection applicants. 
 While some of these challenge areas are outside of the control of institutions like the EUAA, taken individually or together, the scenarios and accompanying analysis outline specific challenges that organisations can begin to prepare for in terms of, for example, staff, training, strategic plans, building robust networks, and policy adjustments. Taking uncertainties and interdependencies into account, each scenario notably specifies how factors have evolved and effected change to international protection systems. In presenting these scenarios here, the project partners offer some productive insights into the possible futures for international protection, and a set of scenarios that enables stakeholders to better prepare themselves to achieve their missions going forward.
 
-{% include feature_row id="report_link" type="right" %}
