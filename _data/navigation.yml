@@ -7,7 +7,7 @@ main:
     url: /scenarios/hub
   - title: Challenges
     url: /challenges/hub
-  - title: About
-    url: /about
   - title: Reports
     url: /reports
+  - title: About
+    url: /about
