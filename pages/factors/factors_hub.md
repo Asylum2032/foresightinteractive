@@ -18,22 +18,20 @@ factors_a:
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/transit_nations.jpg
-
-factors_b:
   - title: "Economic Inequalities"
     excerpt: "Disparity in wealth, income opportunities and access to services (healthcare, etc.) creating conditions for increased social pressures that lead to oppression. This also relates to trends in mixed migration and is reflective of economic differences between countries of origin and destination."
     url: /factors/economic_inequalities
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/economic_inequalities.jpg
+
+factors_b:
   - title: "Oppression of Vulnerable Groups"
     excerpt: "Targeted oppression of vulnerable and minority groups can emerge from conservative to authoritarian governments and the rise of extremist groups. Human Rights are violated for selected groups."
     url: /factors/oppression_vulnerable_groups
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/Oppression.jpg
-
-factors_c:
   - title: "Climate Change-Induced Displacement"
     excerpt: "Changing environmental conditions lead to justification for permanent displaced populations. Powerful entity takes control of land, displaces previous users, enforces new ownership and management with violent oppression."
     url: /factors/climate_change_displacement
@@ -47,7 +45,7 @@ factors_c:
     btn_class: "btn--primary"
     image_path: /assets/images/FoodWater.jpg
 
-factors_d:
+factors_c:
   - title: "Legal Pathways to International Protection"
     excerpt: "The options through which international protection can be legally pursued may change based on reforms to global agreements, national level legisla-tion, in conjunction with technologies that enable new processes and operations."
     url: /factors/legal_protection
@@ -60,22 +58,20 @@ factors_d:
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/DigitalWarfare.jpg
-
-factors_e:
   - title: "Regime protection, state violence and disputed changes in land use"
     excerpt: "Regimes controlling wealth generated from exploitation of resources may exercise violent protection against any threats to power."
     url: /factors/land_use
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/RegimeProtection.png
+
+factors_d:
   - title: "Automation and Databases"
     excerpt: "Artificial Intelligence (AI) and Machine Learning methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation."
     url: /factors/automation_databases
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/automationDatabases.jpg
-
-factors_f:
   - title: "Social Media"
     excerpt: "Most social media platforms emerged fewer than 10 years ago, yet they have fundamentally shifted information gathering, organising, networking and communications activities for asylum-seekers and receiving countries. Platforms can also be used and targeted by governments."
     url: /factors/social_media
@@ -85,8 +81,7 @@ factors_f:
   - title: ""
     excerpt: ""
     image_path: /assets/images/placeholder.jpg
-
-
+  
 
 
 ---
@@ -111,7 +106,4 @@ To develop coherent and useful alternative future scenarios, it is first necessa
 
 {% include feature_row id="factors_d"%}
 
-{% include feature_row id="factors_e"%}
-
-{% include feature_row id="factors_f"%}
 
