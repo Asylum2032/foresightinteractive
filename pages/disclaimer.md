@@ -42,7 +42,7 @@ Fraunhofer ISI  – Competence Centre Foresight,
 Jan Roerden and Anna Mauz
 
 #### Picture credits:
-Banner photo by Jené Stephaniuk on Unsplash, 2022 
+Banner photo by fran_kie on Shutterstock, 2022 
 
 Scenario Photos: 
 
