@@ -13,7 +13,7 @@ scenario_hub:
   - image_path: /assets/images/ScenarioArtboard.png
     alt: "scenario logo stylized"
     title: "Scenario Hub"
-    excerpt: "Based on the key factors, four unique and viable **future scenarios** were refined. Click on the Button below to explore these scenarios."
+    excerpt: "Click on the button below to explore the four future scenarios."
     url: /scenarios/hub
     btn_label: "Click here"
     btn_class: "btn--primary"
@@ -42,14 +42,14 @@ It may take some time to load the Miro board, please be patient, it is coming!
 </p>
 {% endraw %}
 
-To develop coherent and useful alternative future scenarios, first [key factors](factors/hub) that are external to the European Union and influencing the development of international protection and asylum-related migration were identified. Here the term factor refers to trends, emerging issues and novel developments that drive change in international protection. 
+To develop coherent and useful alternative future scenarios, first [key factors](factors/hub) that are external to the European Union and influencing the development of international protection and asylum-related migration were identified. Here the term factor refers to trends, emerging issues and novel developments that drive change in international protection. Based on the key factors, four unique and viable **future scenarios** were refined. 
 
 
 
 {% include feature_row id="scenario_hub" type="right" %} 
 
 
-An expert-based **Delphi survey** helped gather quantitative and qualitative expert feedback into the likelihood and anticipated time-horizon for critical aspects of each scenario. 
-Eventually, **critical challenges** present across the scenarios were identified. The purpose of outlining critical challenges is to help organisations to prioritise and build preparedness and resilience while preparing for a wide spectrum of possible futures. 
+An expert-based [Delphi survey](about) helped gather quantitative and qualitative expert feedback into the likelihood and anticipated time-horizon for critical aspects of each scenario. 
+Eventually, [critical challenges](challenges/hub) present across the scenarios were identified. The purpose of outlining critical challenges is to help organisations to prioritise and build preparedness and resilience while preparing for a wide spectrum of possible futures. 
 Read more about the process of scenario development under the section [About](about).
 
