@@ -17,7 +17,7 @@ persona_2:
     excerpt: "Mayara is a 22-year-old human-rights activist from Brazil, where she has been supporting indigenous peoples in the Amazon fight to protect their ancestral lands. She has been arrested and jailed, following her post on social media criticising the government's response to climate change and deforestation. As both an activist and a member of the LGBTQ community, she faces persecution at home in Brazil, but she is currently in Portugal on a temporary visa. Her trip was financed by her university friends and she has no personal funds, having lived mostly from her academic scholarship which was cut off after her arrest. She has her passport and some access to digital copies of her university records to help prove her identity, though her most important links are to her social media accounts wherein she also stores the evidence of death threats received by herself and her family. Unfortunately, some of her blog posts have begun disappearing and while she has digital copies of many pieces of evidence, online versions are becoming scarce. She is afraid that she will be sent back from Portugal and that her family and friends in Brazil will be persecuted for her actions. She knows that she has a right to seek asylum, but she has heard many stories of long waiting times and rejected applications."
 ---
 
-# Scenario World Narrative
+# Scenario Narrative
 
 {% raw %}
 

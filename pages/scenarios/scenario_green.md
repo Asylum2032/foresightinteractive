@@ -29,7 +29,7 @@ persona_2:
     excerpt: "Zin is 35 years old, hailing from Myanmar. The continuing persecution of individuals who are associated with anti-government protests seems to be getting worse for people like Zin. As a highly educated and technically skilled worker, she has assisted digital operations of civil organisations as a volunteer for many years. Now she is starting to fear for her life and livelihood, as her online identities were recently de-anonymised in a database breach orchestrated by the government. She has an ID card and a decent digital record of her accounts, posts and pictures. She has been assured that the artificial intelligence-enabled application assistants can put the pieces together for her, if only she can gain access to the system. The government restrictions on digital access have only been tightened since the database breach and her digital skills might only get her so far in accessing the open internet for long enough. She is very concerned about the exposure of more of her private data, particularly to a system that is hosted in a foreign land with no obligations to help – even if her application was accepted."
 ---
 
-# Scenario World Narrative
+# Scenario Narrative
 
 {% raw %}
 

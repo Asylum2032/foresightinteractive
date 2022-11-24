@@ -21,7 +21,7 @@ persona_2:
 
 ---
 
-# Scenario World Narrative
+# Scenario Narrative
 
 {% raw %}
 
