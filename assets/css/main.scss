@@ -50,3 +50,13 @@ search: false
     }
   }
 }
+
+
+/*this line manipulates size of all feature row images*/
+.archive__item-teaser img { width: 70%; }
+/* these are the exceptions */
+.archive__item-teaser img[src="/foresightinteractive/assets/images/image_yellow.png"],
+.archive__item-teaser img[src="/foresightinteractive/assets/images/image_blue.png"],
+.archive__item-teaser img[src="/foresightinteractive/assets/images/image_green.png"],
+.archive__item-teaser img[src="/foresightinteractive/assets/images/image_red.png"] { width: 100%; }
+
