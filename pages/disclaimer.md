@@ -20,10 +20,10 @@ Responsibility for the content of external links (to web pages of third parties)
 ### Copyright
 Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.
 
-## Impressum
-DOMAIN NAME is owned and operated by (FRAUNHOFER ISI ??) for the project and funded by the European Union Asylum Agency.  The views expressed here should not be taken, in any way, to reflect the official opinion of the European Union, and the European Commission and its agencies are not responsible for any of its content. (FRAUNHOFER ISI ??) strives to provide correct and current content and information.  However, (FRAUNHOFER ISI ??) cannot guarantee the completeness or quality of the information made available.  Liability claims against (FRAUNHOFER ISI ??), based on losses of material or ideas, which may have occurred through use or disuse of the available information, or through use of faulty or incomplete information, are excluded.  All content, facts and data are subject to confirmation and change.  (FRAUNHOFER ISI ??) reserves the right to change, add or delete the content in parts or its entirety, or temporarily or completely discontinue publishing without prior notice.
-Any use or reproduction of the contents of DOMAIN NAME  apart from the use for personal purposes is prohibited. Any use or publication of images displayed DOMAIN NAME is subject to the prior written consent of the respective copyright holder.
-Hyperlinks or other references between DOMAIN NAME  and other web sites are not intended to mean that the (FRAUNHOFER ISI ??) endorses the contents of those web sites or that it assumes any responsibility or liability for the contents or for the use of these web sites.
+## Imprint/ Impressum
+AsylumScenarios2032.eu is owned and operated by European Union Asylum Agency (EUAA) for the project which was funded by the EUAA and carried out by Fraunhofer ISI.  The views expressed here should not be taken, in any way, to reflect the official opinion of the European Union, and the European Commission and its agencies are not responsible for any of its content. The EUAA strives to provide correct and current content and information.  However, the EUAA cannot guarantee the completeness or quality of the information made available.  Liability claims against the EUAA, based on losses of material or ideas, which may have occurred through use or disuse of the available information, or through use of faulty or incomplete information, are excluded.  All content, facts and data are subject to confirmation and change.  The EUAA reserves the right to change, add or delete the content in parts or its entirety, or temporarily or completely discontinue publishing without prior notice.
+Any use or reproduction of the contents of AsylumScenarios2032.eu apart from the use for personal purposes is prohibited. Any use or publication of images displayed AsylumScenarios2032.eu is subject to the prior written consent of the respective copyright holder.
+Hyperlinks or other references between AsylumScenarios2032.eu and other web sites are not intended to mean that the EUAA endorses the contents of those web sites or that it assumes any responsibility or liability for the contents or for the use of these web sites.
 
 
 ### Scientific coordination and editorial responsibility
@@ -54,7 +54,7 @@ Circling Sharks and Orcas, Photo by Jakob Owens on Unsplash
 
 Caimans and Piranhas in a Drying Pond, Photo by Juli Kosolapova on Unsplash
 
-Key Factor images were AI-generated using Stable Diffusion.
+Key Factor, Challenge Cluster and Persona images were AI-generated using Stable Diffusion.
 
 #### Disclaimer:
 The images used for the scenario personas are not real people. 
