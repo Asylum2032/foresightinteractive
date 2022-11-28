@@ -1,5 +1,5 @@
 ---
-title: Climate Change and Resources
+title: Climate Change and Resource Scarcity
 layout: single
 permalink: challenges/cluster3/
 header:
@@ -8,7 +8,7 @@ header:
 
 ---
 
-# Challenge Cluster 3: Climate Change and Resources
+# Challenge Cluster 3: Climate Change and Resource Scarcity
 
 ![image-right](/foresightinteractive/assets/images/ClimateChangeResources.jpg){: .align-right }
 The continuation of climate change creates a number of challenges for international protection, even in scenarios in which human societies are taking proactive measure to limit global warming and mitigate climate change effects.

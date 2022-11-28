@@ -1,5 +1,5 @@
 ---
-title: Digitalisation and Data
+title: Digitalisation and Datafication
 layout: single
 permalink: challenges/cluster2/
 header:
@@ -7,7 +7,7 @@ header:
 
 
 ---
-# Challenge Cluster 2: Digitalisation and Data
+# Challenge Cluster 2: Digitalisation and Datafication
 
 ![image-right](/foresightinteractive/assets/images/Digitalization.jpg){: .align-right }
 As digitalisation continues to reshape many aspects of daily life and work, it presents some distinct challenges within the context of international protection. Scenarios examined how digital technologies offer improvements to speed of information transfer, remote work, data processing and analysis, and other efficiencies, alongside the new challenges they present. Major challenge areas include a rapidly changing technological landscape, scarce and expensive human resources, inconsistent database quality, non-standardised interoperability, an uncertain regulatory environment and increasing cybersecurity risks. The various implementations of Artificial Intelligence, the quality of data is relies on, and different regulatory environments, are important challenges examined across all scenarios. Furthermore, defining the boundaries between automated support systems and human decision-making is a critical challenge that is partially determined by data reliability and regulatory environment.
