@@ -1,5 +1,5 @@
 ---
-title: Factors
+title: Key Factors
 layout: splash
 permalink: /factors/hub
 header:
@@ -78,25 +78,17 @@ factors_d:
     btn_label: "Read More"
     btn_class: "btn--primary"
     image_path: /assets/images/SocialMedia.jpg
-  - title: ""
-    excerpt: ""
-    image_path: /assets/images/placeholder.jpg
-  
-
-
+    
 ---
 
-To develop coherent and useful alternative future scenarios, it is first necessary to gather, organise, and assess information about key factors that are influencing the development of international protection and asylum-related migration. We use the term factor to encompass trends, emerging issues and novel developments (i.e. social phenomena or technology uses) that drive or shape changes related to international protection in the future. Research activities included a literature review and expert interviews with EUAA staff, and resulted in an organised collection of initial factors for use in the workshop process.
+To develop coherent and useful alternative future scenarios, it is first necessary to gather, organise, and assess 
+information about key factors that are influencing the development of international protection and asylum-related 
+migration. We use the term factor to encompass trends, emerging issues and novel developments (i.e. social phenomena or 
+technology uses) that drive or shape changes related to international protection in the future. Research activities 
+included a literature review and expert interviews with EUAA staff, and resulted in an organised collection of initial 
+factors for use in the workshop process.
 
-
-<p>
-<iframe src="https://miro.com/app/live-embed/uXjVPLSmLx0=/?moveToViewport=42210,8737,19293,11217&amp;embedAutoplay=true" width="1085" height="582" frameborder="0" scrolling="no" allowfullscreen="" align="left"></iframe>
-</p>
-
-<p>
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
-</p>
-
+----
 
 {% include feature_row id="factors_a"%}
 
