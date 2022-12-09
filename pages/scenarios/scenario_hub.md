@@ -1,6 +1,9 @@
 ---
+title: Scenarios
 layout: splash
 permalink: /scenarios/hub
+header:
+    overlay_image: /assets/images/image_header.jpg
 scenario_yellow:
   - image_path: /assets/images/image_yellow.png
     alt: "placeholder image 1"
@@ -35,7 +38,6 @@ scenario_red:
     btn_class: "btn--primary"
 ---
 
-# Scenarios
 The scenario development process began with the identification of a number of 
 factors that were both external to the EU+ countries and driving change in 
 international protection. Based on them, the process of scenario development 
@@ -47,6 +49,7 @@ centres around three of the most impactful and uncertain factors and details how
 developments among those key factors infer coinciding and coherent developments 
 in the other factors.
 
+----
 
 {% include feature_row id="scenario_yellow" type="left" %}
 
