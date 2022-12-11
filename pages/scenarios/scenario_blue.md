@@ -60,7 +60,12 @@ The **widespread adoption of artificial intelligence-based analytical technologi
 Extensive international efforts aimed at avoiding regime change and **improving the economic situation in the global South** to stabilise the situation are proving somewhat successful and are to some extent narrowing the economic migration. **Mixed migration has therefore become less diverse with respect to migrants’ countries of origin and educational background.** There is technological competition between the two blocs. In one block, digital platforms that are characterised by state-controlled surveillance. **Digital literacy has become a crucial prerequisite skill** for navigating the international protection procedures. 
 
 # Personas
-Disclaimer: The images used for the scenario personas are not real people. The images were generated using Stable Diffusion [(learn more)](/foresightinteractive/about/#disclaimer-1).
+{% raw %}
+<p style="font-size:0.5em">
+    Disclaimer: The images used for the scenario personas are not real people. The images were 
+    generated using Stable Diffusion <a href="/foresightinteractive/about/#disclaimer-1">(learn more)</a>.
+</p>
+{% endraw %}
 
 {% include feature_row id="persona_2" type="left" %}
 

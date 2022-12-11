@@ -47,7 +47,12 @@ Initially, some wealthy nations attempted to find technological solutions to the
 **In many territories, the broader Internet is severely restricted**, making information outside state-sanctioned portals – including official documents on human rights and legal pathways – nearly impossible to access. These issues are only compounded by the **complete deregulation and fast pace of social media** that has occurred **in other regions** – redoubling the amount of **disinformation and exploitation** of desperate asylum seekers on the one hand and **negatively impacting public perception in receiving countries** on the other hand. 
 
 # Personas
-Disclaimer: The images used for the scenario personas are not real people. The images were generated using Stable Diffusion [(learn more)](/foresightinteractive/about/#disclaimer-1).
+{% raw %}
+<p style="font-size:0.5em">
+    Disclaimer: The images used for the scenario personas are not real people. The images were 
+    generated using Stable Diffusion <a href="/foresightinteractive/about/#disclaimer-1">(learn more)</a>.
+</p>
+{% endraw %}
 
 {% include feature_row id="persona_2" type="left" %}
 
