@@ -9,7 +9,7 @@ toc_label: "Surveillance, Security and Digital Warfare"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/images/DigitalWarfare.jpg){: .align-left }
+![image-left](/assets/images/DigitalWarfare.jpg){: .align-left }
 
 # Surveillance, Security and Digital Warfare
 The use of various technologies leads to monitoring people across affiliations (state, organisations, digital groups, etc.). Attacks on infrastructure, databases and other forms of IT disruption are executed digitally.

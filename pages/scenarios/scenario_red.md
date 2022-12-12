@@ -50,17 +50,17 @@ Initially, some wealthy nations attempted to find technological solutions to the
 {% raw %}
 <p style="font-size:0.5em">
     Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a href="/foresightinteractive/about/#disclaimer-1">(learn more)</a>.
+    generated using Stable Diffusion <a href="/about/#disclaimer-1">(learn more)</a>.
 </p>
 {% endraw %}
 
-![image-left](/foresightinteractive/assets/images/Adana.jpg){: .align-left }
+![image-left](/assets/images/Adana.jpg){: .align-left }
 
 ## Adana
 
 Adana is a 25-year-old Nigerian who has been a vocal leader for human rights activism both in her local community and online. Once she began receiving threats on social media for her work against evictions and exploitative human trafficking, she fled and is currently living in Morocco. She has access to funds and knowledge thanks to her digital literacy skills developed in attaining her university degree in communications. She has been a primary school teacher as well as a successful blogger and non-governmental organisation collaborator, but in Morocco, she has been mainly forced into irregular domestic work and translation. She has an extensive portfolio of digital evidence proving the threats she has received and she has confidence that her persecution for being a defender of human rights will work in her favour. For identification, she has biometric information, access to her digital wallets, her university degree and her passport. She has the added responsibility of guiding her younger siblings through the process and the fear of being returned by Moroccan authorities, but she believes that safety and security for herself and her family are close. Just across the waters, in Spain, she can access her network of European allies and assistants and start a new life.
 
-![image-right](/foresightinteractive/assets/images/Mayara.jpg){: .align-right }
+![image-right](/assets/images/Mayara.jpg){: .align-right }
 
 ## Mayara
 

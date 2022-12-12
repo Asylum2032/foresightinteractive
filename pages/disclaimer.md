@@ -39,7 +39,7 @@ Jekyll, Minimal Mistakes.
 
 ### Technical implementation
 Fraunhofer ISI  – Competence Centre Foresight,
-Jan Roerden and Anna Mauz
+Jan Rörden and Anna Mauz
 
 #### Picture credits:
 Banner photo by fran_kie on Shutterstock, 2022 

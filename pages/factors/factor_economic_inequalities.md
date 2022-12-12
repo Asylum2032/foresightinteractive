@@ -9,7 +9,7 @@ toc_label: "Economic Inequalities"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/images/economic_inequalities.jpg){: .align-left }
+![image-left](/assets/images/economic_inequalities.jpg){: .align-left }
 
 # Economic Inequalities
 

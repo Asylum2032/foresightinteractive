@@ -63,17 +63,17 @@ Extensive international efforts aimed at avoiding regime change and **improving 
 {% raw %}
 <p style="font-size:0.5em">
     Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a href="/foresightinteractive/about/#disclaimer-1">(learn more)</a>.
+    generated using Stable Diffusion <a href="/about/#disclaimer-1">(learn more)</a>.
 </p>
 {% endraw %}
 
-![image-left](/foresightinteractive/assets/images/Tadesse.jpg){: .align-left }
+![image-left](/assets/images/Tadesse.jpg){: .align-left }
 
 ## Tadesse
 
 Tadesse is from Tigray in Ethiopia, wherein the national government continues to persecute and evict people from their tribal lands. He is 18 years old (though he is claiming to be 16 in the asylum application process) and he is currently in Sudan having arrived as a part of a caravan that cost him all of his money. The human traffickers that helped him get to Sudan insist that he still owes money and that he can only pay his debts if he assists them in further human trafficking activities. He wants to escape to Europe and has started taking up as much work as he can find (e.g. construction, courier, cleaning). He has some level of schooling, though he was forced to drop out when his father was killed as a member of the Tigray People’s Liberation Front. He inherited the family farm but was evicted through persecution and official corruption. He is travelling alone and has many fears of being killed or imprisoned if caught by police or soldiers, but he is confident that the story of his tribe’s persecution is so well-known (through non-governmental organisation (NGO) reports and social media news) that his application will be accepted. As his official passport and national ID card were lost during the journey, he has facial biometrics and fluency in his native language as primary ID documents (though he does have digital pictures of those documents on a Chinese social media platform). He wants to go to Europe, where many other Ethiopians on social media have assured him that he will receive good social benefits as a minor. He is concerned that invasive medical procedures will unveil his true age, that he will not be welcomed in his destination country and that he will be returned to Ethiopia even as he waits on his application. However, if he is forced to go back, he will be able to protect his younger brothers and seek revenge for the killing of his father.
 
-![image-right](/foresightinteractive/assets/images/Hajar.jpg){: .align-right }
+![image-right](/assets/images/Hajar.jpg){: .align-right }
 
 ## Hajar
 

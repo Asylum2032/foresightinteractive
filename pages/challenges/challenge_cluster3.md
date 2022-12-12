@@ -24,7 +24,7 @@ Within the framework of the scenario process, it was disputed whether there coul
 
 ## See how it plays out in our scenarios
 
-* [Humming Bees on the Global Meadows](/foresightinteractive/scenarios/yellow/#climate-change-challenges)
-* [Circling Sharks and Orcas](/foresightinteractive/scenarios/blue/#climate-change-challenges)
-* [Sleeping Leopard in a Paper Cage](/foresightinteractive/scenarios/green/#climate-change-challenges)
-* [Caimans and Piranhas in a Drying Pond](/foresightinteractive/scenarios/red/#climate-change-challenges)
+* [Humming Bees on the Global Meadows](/scenarios/yellow/#climate-change-challenges)
+* [Circling Sharks and Orcas](/scenarios/blue/#climate-change-challenges)
+* [Sleeping Leopard in a Paper Cage](/scenarios/green/#climate-change-challenges)
+* [Caimans and Piranhas in a Drying Pond](/scenarios/red/#climate-change-challenges)

@@ -9,7 +9,7 @@ toc_label: "Food & Water Insecurity"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/images/FoodWater.jpg){: .align-left }
+![image-left](/assets/images/FoodWater.jpg){: .align-left }
 
 # Food & Water Insecurity 
 As a prolonged shortage in water supply (precipitation, surface water and ground water) impacts (e.g. food insecurities) heighten, social pressure trans-forms into political oppression. Similar dynamics can be observed with scarcity of other resources.

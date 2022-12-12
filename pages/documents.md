@@ -7,21 +7,21 @@ header:
 short_report:
 - image_path: /assets/images/ReportCover.png
   title: "Download the Summary Report"
-  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  url: "/assets/pdfs/PlaceholderReport.pdf"
   btn_label: "Download"
   btn_class: "btn--primary"
 
 long_report:
 - image_path: /assets/images/ReportCover.png
   title: "Download the Comprehensive Report"
-  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  url: "/assets/pdfs/PlaceholderReport.pdf"
   btn_label: "Download"
   btn_class: "btn--primary"
 
 reports_dl1:
 - image_path: /assets/images/ReportCover.png
   title: "Download the Summary Report"
-  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  url: "/assets/pdfs/PlaceholderReport.pdf"
   btn_label: "Download the Summary Report"
   btn_class: "btn--primary"
   btn_label: "Download the Comprehensive Report"
@@ -29,17 +29,17 @@ reports_dl1:
 
 reports_dl2:
 - title: "Download the Comprehensive Report"
-  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  url: "/assets/pdfs/PlaceholderReport.pdf"
   btn_label: "Download the Comprehensive Report"
   btn_class: "btn--primary"
 
 reports_dl3:
 - title: "Download the Comprehensive Report"
-  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  url: "/assets/pdfs/PlaceholderReport.pdf"
   btn_label: "Download the Comprehensive Report"
   btn_class: "btn--primary"
 - title: "Download the Summary Report"
-  url: "/foresightinteractive/assets/pdfs/PlaceholderReport.pdf"
+  url: "/assets/pdfs/PlaceholderReport.pdf"
   btn_label: "Download the Summary Report"
   btn_class: "btn--primary"
 - image_path: /assets/images/ReportCover.png

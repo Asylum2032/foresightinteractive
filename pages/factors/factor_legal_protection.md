@@ -9,7 +9,7 @@ toc_label: "Legal Pathways to International Protection"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/images/LegalProtection.jpg){: .align-left }
+![image-left](/assets/images/LegalProtection.jpg){: .align-left }
 
 # Legal Pathways to International Protection 
 The options through which international protection can be legally pursued may change based on reforms to global agreements, national level legisla-tion, in conjunction with technologies that enable new processes and operations.

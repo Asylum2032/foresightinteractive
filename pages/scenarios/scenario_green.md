@@ -63,17 +63,17 @@ Food and water shortages are becoming more habitual, of longer duration and crea
 {% raw %}
 <p style="font-size:0.5em">
     Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a href="/foresightinteractive/about/#disclaimer-1">(learn more)</a>.
+    generated using Stable Diffusion <a href="/about/#disclaimer-1">(learn more)</a>.
 </p>
 {% endraw %}
 
-![image-left](/foresightinteractive/assets/images/Amadou.jpg){: .align-left }
+![image-left](/assets/images/Amadou.jpg){: .align-left }
 
 ## Amadou
 
 Amadou is 45 years old and he thinks he is getting too old for this. He had been part of the middle class back in Mali but was forced to flee that life after climate changes increased violent land grabbing by the local authorities. At first, he thought his move would be temporary and that he would be able to make a living working in a neighbouring country.After all, his higher education and experience as a manager had brought him a good living income in Mali. However, after years of working informally and slowly draining his savings, he believes that he will never be able to return, nor make a decent livelihood in his home region. He trusts that the international protection system will \"protect\" those who cannot live in dignity and have been victims of past persecution. He is confident that his land property certificates and his wedding certificate will be enough to prove his identity and that of his family. He has learned much from migrants in resettlement camps, through social media groups and from acquaintances who are already in Europe. He was identified by an artificial intelligence data processor as having a high likelihood of success, but he is afraid that he will not be able to reach a safe place to lodge the final application.
 
-![image-right](/foresightinteractive/assets/images/Zin.jpg){: .align-right }
+![image-right](/assets/images/Zin.jpg){: .align-right }
 
 ## Zin
 

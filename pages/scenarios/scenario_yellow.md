@@ -68,17 +68,17 @@ Virtual spaces blur the line between physical and digital life in the social and
 {% raw %}
 <p style="font-size:0.5em">
     Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a href="/foresightinteractive/about/#disclaimer-1">(learn more)</a>.
+    generated using Stable Diffusion <a href="/about/#disclaimer-1">(learn more)</a>.
 </p>
 {% endraw %}
 
-![image-left](/foresightinteractive/assets/images/Ahn.jpg){: .align-left }
+![image-left](/assets/images/Ahn.jpg){: .align-left }
 
 ## Ahn
 
 Ahn is a 22-year-old female, currently living in Hong Kong. Her main motivation for seeking international protection is to pursue better economic opportunities, but she has proof of being persecuted for online activities in support of political protests. She has extensive experience in IT, having worked as a developer of academic software and she has personal savings denominated in several Bitcoins. She has all of the relevant documentation she might need stored on a verifiable blockchain and she is aware of most application procedures through knowledge gained from internet research. Her only concerns are that her digital identification documents might not be accurately interpreted during application assessment and that her family might have to join her if they are persecuted for her behaviour and her seeking asylum.
 
-![image-right](/foresightinteractive/assets/images/Nage.jpg){: .align-right }
+![image-right](/assets/images/Nage.jpg){: .align-right }
 
 ## Nage
 

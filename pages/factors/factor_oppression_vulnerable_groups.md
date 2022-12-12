@@ -9,7 +9,7 @@ toc_label: "Oppression of Vulnerable Groups"
 toc_icon: "cog"
 ---
 
-![image-left](/foresightinteractive/assets/images/Oppression.jpg){: .align-left }
+![image-left](/assets/images/Oppression.jpg){: .align-left }
 
 # Oppression of Vulnerable Groups
 Targeted oppression of vulnerable and minority groups can emerge from conservative to authoritarian governments and the rise of extremist groups. Human Rights are violated for selected groups. 
