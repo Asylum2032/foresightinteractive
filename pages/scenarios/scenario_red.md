@@ -50,7 +50,7 @@ Initially, some wealthy nations attempted to find technological solutions to the
 {% raw %}
 <p style="font-size:0.5em">
     Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a href="/about/#disclaimer-1">(learn more)</a>.
+    generated using Stable Diffusion <a href="/disclaimer/#disclaimer-1">(learn more)</a>.
 </p>
 {% endraw %}
 
