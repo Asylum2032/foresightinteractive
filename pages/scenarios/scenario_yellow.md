@@ -68,7 +68,7 @@ Virtual spaces blur the line between physical and digital life in the social and
 {% raw %}
 <p style="font-size:0.5em">
     Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a href="/disclaimer/#disclaimer-1">(learn more)</a>.
+    generated using Stable Diffusion <a target="_blank" rel="noopener noreferrer" href="/disclaimer/#disclaimer-1">(learn more)</a>.
 </p>
 {% endraw %}
 
