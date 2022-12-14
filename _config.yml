@@ -19,9 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Asylum Scenarios 2032
-email: aaron.rosa@isi.fraunhofer.de
+email: info@euaa.europa.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Asylum scenarios for 2032.
+  The website presents the EUAA foresight project "The future of international protection in the EU in the next 10 years"
+  which depicts scenarios of asylum-related migration and associated challenges by 2032. The scenarios were developed
+  with the help of experts from the EUAA, the European Commission, UNHCR, ICMPD and national asylum authorities of
+  various EU countries.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.asylumscenarios2032.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #jekyllrb
