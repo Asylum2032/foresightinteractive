@@ -55,17 +55,16 @@ Initially, some wealthy nations attempted to find technological solutions to the
 {% endraw %}
 
 ![image-left](/assets/images/Adana.jpg){: .align-left }
-
 ## Adana
-
+<p style="font-size:0.7em">
 Adana is a 25-year-old Nigerian who has been a vocal leader for human rights activism both in her local community and online. Once she began receiving threats on social media for her work against evictions and exploitative human trafficking, she fled and is currently living in Morocco. She has access to funds and knowledge thanks to her digital literacy skills developed in attaining her university degree in communications. She has been a primary school teacher as well as a successful blogger and non-governmental organisation collaborator, but in Morocco, she has been mainly forced into irregular domestic work and translation. She has an extensive portfolio of digital evidence proving the threats she has received and she has confidence that her persecution for being a defender of human rights will work in her favour. For identification, she has biometric information, access to her digital wallets, her university degree and her passport. She has the added responsibility of guiding her younger siblings through the process and the fear of being returned by Moroccan authorities, but she believes that safety and security for herself and her family are close. Just across the waters, in Spain, she can access her network of European allies and assistants and start a new life.
+</p>
 
 ![image-right](/assets/images/Mayara.jpg){: .align-right }
-
 ## Mayara
-
+<p style="font-size:0.7em">
 Mayara is a 22-year-old human-rights activist from Brazil, where she has been supporting indigenous peoples in the Amazon fight to protect their ancestral lands. She has been arrested and jailed, following her post on social media criticising the government's response to climate change and deforestation. As both an activist and a member of the LGBTQ community, she faces persecution at home in Brazil, but she is currently in Portugal on a temporary visa. Her trip was financed by her university friends and she has no personal funds, having lived mostly from her academic scholarship which was cut off after her arrest. She has her passport and some access to digital copies of her university records to help prove her identity, though her most important links are to her social media accounts wherein she also stores the evidence of death threats received by herself and her family. Unfortunately, some of her blog posts have begun disappearing and while she has digital copies of many pieces of evidence, online versions are becoming scarce. She is afraid that she will be sent back from Portugal and that her family and friends in Brazil will be persecuted for her actions. She knows that she has a right to seek asylum, but she has heard many stories of long waiting times and rejected applications.
-
+</p>
 ---
 
 

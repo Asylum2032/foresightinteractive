@@ -70,15 +70,15 @@ Food and water shortages are becoming more habitual, of longer duration and crea
 ![image-left](/assets/images/Amadou.jpg){: .align-left }
 
 ## Amadou
-
-Amadou is 45 years old and he thinks he is getting too old for this. He had been part of the middle class back in Mali but was forced to flee that life after climate changes increased violent land grabbing by the local authorities. At first, he thought his move would be temporary and that he would be able to make a living working in a neighbouring country.After all, his higher education and experience as a manager had brought him a good living income in Mali. However, after years of working informally and slowly draining his savings, he believes that he will never be able to return, nor make a decent livelihood in his home region. He trusts that the international protection system will \"protect\" those who cannot live in dignity and have been victims of past persecution. He is confident that his land property certificates and his wedding certificate will be enough to prove his identity and that of his family. He has learned much from migrants in resettlement camps, through social media groups and from acquaintances who are already in Europe. He was identified by an artificial intelligence data processor as having a high likelihood of success, but he is afraid that he will not be able to reach a safe place to lodge the final application.
-
+<p style="font-size:0.7em">
+Amadou is 45 years old and he thinks he is getting too old for this. He had been part of the middle class back in Mali but was forced to flee that life after climate changes increased violent land grabbing by the local authorities. At first, he thought his move would be temporary and that he would be able to make a living working in a neighbouring country.After all, his higher education and experience as a manager had brought him a good living income in Mali. However, after years of working informally and slowly draining his savings, he believes that he will never be able to return, nor make a decent livelihood in his home region. He trusts that the international protection system will "protect" those who cannot live in dignity and have been victims of past persecution. He is confident that his land property certificates and his wedding certificate will be enough to prove his identity and that of his family. He has learned much from migrants in resettlement camps, through social media groups and from acquaintances who are already in Europe. He was identified by an artificial intelligence data processor as having a high likelihood of success, but he is afraid that he will not be able to reach a safe place to lodge the final application.
+</p>
 ![image-right](/assets/images/Zin.jpg){: .align-right }
 
 ## Zin
-
+<p style="font-size:0.7em">
 Zin is 35 years old, hailing from Myanmar. The continuing persecution of individuals who are associated with anti-government protests seems to be getting worse for people like Zin. As a highly educated and technically skilled worker, she has assisted digital operations of civil organisations as a volunteer for many years. Now she is starting to fear for her life and livelihood, as her online identities were recently de-anonymised in a database breach orchestrated by the government. She has an ID card and a decent digital record of her accounts, posts and pictures. She has been assured that the artificial intelligence-enabled application assistants can put the pieces together for her, if only she can gain access to the system. The government restrictions on digital access have only been tightened since the database breach and her digital skills might only get her so far in accessing the open internet for long enough. She is very concerned about the exposure of more of her private data, particularly to a system that is hosted in a foreign land with no obligations to help – even if her application was accepted.
-
+</p>
 ---
 
 # Scenario Challenges
@@ -92,9 +92,9 @@ Zin is 35 years old, hailing from Myanmar. The continuing persecution of individ
 ## Digitalisation and Data Challenges
 * The use of artificial intelligence and automated systems imply a major shift in application processing operations (electronic processing, remote interviews). Additionally, this scenario calls for human oversight of automated systems, implying additional training and skills are needed to understand and properly assess automated system results.   
 * This scenario implies that various online platforms and technologies will be used to assist in verification of asylum applicant identities and outlines present day challenges that would have to be addressed for this scenario to be realized: 
-  * Established information sharing agreements between governments and government entities
-  * Regulating social media to ensure information is trustworthy
-  * Securing private data and guarding against future cybersecurity issues and attacks.  
+<br> - Established information sharing agreements between governments and government entities
+<br> - Regulating social media to ensure information is trustworthy
+<br> - Securing private data and guarding against future cybersecurity issues and attacks.  
 
 
 ## Climate Change Challenges
