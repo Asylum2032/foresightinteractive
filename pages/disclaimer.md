@@ -39,7 +39,3 @@ Circling Sharks and Orcas, Photo by Jakob Owens on Unsplash
 Caimans and Piranhas in a Drying Pond, Photo by Juli Kosolapova on Unsplash
 
 For any use or reproduction of photos or other material that is not under the EUAA copyright, permission must be sought directly from the copyright holders.
-
-#### Disclaimer:
-The images used for the scenario personas are not real people. 
-Any resemblance to persons living or dead is purely coincidental. The images were generated with the StableDiffusion text-to-image model.
