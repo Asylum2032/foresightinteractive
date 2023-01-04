@@ -7,7 +7,7 @@ header:
 ---
 
 
-## Disclaimer:
+## Disclaimer
 
 This website has been developed in the frame of the project “The Future of International Protection in the EU+ in the Next 10 Years”. It describes the development of four different scenarios presenting alternative possible futures for international protection in the EU+. These scenarios were developed through a multi-phase process integrating expert advice on a number of factors.
 
@@ -20,22 +20,5 @@ The images used for the scenario personas are not real people. Any resemblance t
 ## Copyright Notice 
 
 Copyright © European Union Agency for Asylum (for the entire content of this website unless otherwise stated)
-Reproduction is authorised provided the source is acknowledged. 
-For individual documents, the general principle outlined above may be subject to specific conditions as indicated in individual copyright notices contained therein. Users are advised to refer to these individual copyright notices.
-
-
-#### Picture credits:
-Banner photo by fran_kie on Shutterstock, 2022 
-Photo/illustration on the report cover page: fran_kie, © Shutterstock, 2022.
-
-Scenario Photos: 
-
-Humming Bees on the Global Meadows, Photo by morais on Unsplash 
-
-Sleeping Leopard in a Paper Cage, Photo by Colin Watts on Unsplash
-
-Circling Sharks and Orcas, Photo by Jakob Owens on Unsplash
-
-Caimans and Piranhas in a Drying Pond, Photo by Juli Kosolapova on Unsplash
-
+Reproduction is authorised provided the source is acknowledged.
 For any use or reproduction of photos or other material that is not under the EUAA copyright, permission must be sought directly from the copyright holders.
