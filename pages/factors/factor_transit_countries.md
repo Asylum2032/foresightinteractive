@@ -16,7 +16,6 @@ toc_icon: "cog"
 Transit nations serve as a mode of containment, hold the possibility for 
 increased externalisation and might instrumentalise asylum-seeking migrants.
 
-|
 
 ## A (Optimist)
 
@@ -46,8 +45,7 @@ Protected transit corridors assure asylum seekers safety of movement
 
 ## C2 (Mediator)
 
-Broad adoption of remote asylum application processing de-incentivises  
-improving international agreements or conditions
+Broad adoption of remote asylum application processing de-incentivises improving international agreements or conditions
 * Asylum claim processing for migrants located in transit countries (remote processing)
 * Blossoming of bilateral agreements/statements (pushing problem on other countries, status quo extended)
 

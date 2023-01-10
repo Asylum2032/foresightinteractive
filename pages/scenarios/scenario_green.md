@@ -43,7 +43,7 @@ The geopolitical world of 2032 has settled into an **uneasy stability**, with ma
 
 
 ## Focus on economic development in transit countries
-In this scenario development activity, transit countries are understood as countries in the route between countries of origin and the EU.   
+ 
 **The economic development of transit countries**, particularly along borders and within migrant and refugee communities, has been the focus of many intra-governmental initiatives and public-private partnerships. These developments have a **mixed track record regarding the treatment of employees**, the safety of their working conditions and links to crime and corruption. At the same time, new community economic opportunities, education systems and collaboration between local and migrant populations have emerged in more successful instances. Migrants and asylum seekers in economically developing transit countries have found opportunities to participate **in many economic sectors – characterised by both unskilled labour force and educated workforce using skill-intensive technologies** – including various types of telework.
 
 ## Increased control over personal data and remote asylum procedures
@@ -62,8 +62,7 @@ Food and water shortages are becoming more habitual, of longer duration and crea
 # Scenario Personas
 {% raw %}
 <p style="font-size:0.5em">
-    Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a target="_blank" rel="noopener noreferrer" href="https://stablediffusionweb.com/">(learn more)</a>.
+    Disclaimer: The images used for the scenario personas are not real people.
 </p>
 {% endraw %}
 

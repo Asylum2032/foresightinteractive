@@ -31,7 +31,7 @@ Regime evictions become more frequent and geographically widespread
 
 # C1 (Mediator)
 Democracies on the rise lead to lower level of regime violence
-* After the wave of de-democratisation eases off, another wave of democratisation - with associated lower levels of regime protection violence - takes place reducing regime violence led migration 
+* After the wave of de-democratisation eases off, another wave of democratisation - with associated lower levels of regime protection violence - takes place reducing regime violence-led migration 
 * In many autocratically ruled countries in Africa, economic expansion vastly enlarges a middle class which manages to secure more democratic rights
 
 # C2 (Mediator)

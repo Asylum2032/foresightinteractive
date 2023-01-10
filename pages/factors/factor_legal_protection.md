@@ -12,7 +12,7 @@ toc_icon: "cog"
 ![image-left](/assets/images/LegalProtection.jpg){: .align-left }
 
 # Legal Pathways to International Protection 
-The options through which international protection can be legally pursued may change based on reforms to global agreements, national level legisla-tion, in conjunction with technologies that enable new processes and operations.
+The options through which international protection can be legally pursued may change based on reforms to global agreements, national level legislation, in conjunction with technologies that enable new processes and operations.
 
 |
 
@@ -41,5 +41,5 @@ Fractured global migration reform and hardened territorialisation
 * International refugee law further develops, but there are more and more countries opting out and refusing to host or allow entrance to refugees
 
 # D (Innovator)
-Externalised screening and re-mote interviewing expedites asylum procedures
+Externalised screening and remote interviewing expedites asylum procedures
 * Embassies and consulates start pre-screening potential asylum seekers' applications, whose applications are then sent to the central services of the national asylum authorities, who then issue a decision based on the application and interview done online.

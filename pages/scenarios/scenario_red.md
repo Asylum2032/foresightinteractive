@@ -27,7 +27,7 @@ persona_2:
 
 ## Disruptions to food supply systems triggered by extreme weather events
 
-The effects of climate change and environmental deterioration on human societies have been rapidly getting worse. In addition to sea-level rise and other macro-environmental impacts, more localised effects – in particular extreme weather events (heatwaves, droughts, floods) as well as shifts in rainfall locations – have caused **numerous disruptions to global agriculture and food supply systems.** Declining or collapsing agricultural regions have seen a notable r**ise in regime evictions and state abuse of expropriation practices.** While in some cases food and water scarcity could be mitigated by the adoption of new nutrition sources and reduction of food waste, in most cases the situation leads to forced displacement and loss of livelihood.
+The effects of climate change and environmental deterioration on human societies have been rapidly getting worse. In addition to sea-level rise and other macro-environmental impacts, more localised effects – in particular, extreme weather events (heatwaves, droughts, floods) as well as shifts in rainfall locations – have caused **numerous disruptions to global agriculture and food supply systems.** Declining or collapsing agricultural regions have seen a notable **rise in regime evictions and state abuse of expropriation practices.** While in some cases food and water scarcity could be mitigated by the adoption of new nutrition sources and reduction of food waste, in most cases the situation leads to forced displacement and loss of livelihood.
 
 
 ## Increasing number of localised conflicts and global wealth inequalities
@@ -49,8 +49,7 @@ Initially, some wealthy nations attempted to find technological solutions to the
 # Personas
 {% raw %}
 <p style="font-size:0.5em">
-    Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a target="_blank" rel="noopener noreferrer" href="https://stablediffusionweb.com/">(learn more)</a>.
+    Disclaimer: The images used for the scenario personas are not real people. 
 </p>
 {% endraw %}
 

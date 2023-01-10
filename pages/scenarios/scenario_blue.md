@@ -62,8 +62,7 @@ Extensive international efforts aimed at avoiding regime change and **improving 
 # Personas
 {% raw %}
 <p style="font-size:0.5em">
-    Disclaimer: The images used for the scenario personas are not real people. The images were 
-    generated using Stable Diffusion <a target="_blank" rel="noopener noreferrer" href="https://stablediffusionweb.com/">(learn more)</a>.
+    Disclaimer: The images used for the scenario personas are not real people.
 </p>
 {% endraw %}
 

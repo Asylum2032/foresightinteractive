@@ -29,7 +29,7 @@ Global recognition of minority rights - supported by international jurisdictions
 # B (Pessimist)
 Ever more authoritarian regimes make use of new technologies to oppress vulnerable groups 
 * Increasing authoritarianisation and rise of extremism lead to less international pressure to respect human rights and regimes become ruthless: violate and suppress (e.g. fewer women rights and LGBT+ rights)
-* Surveillance over ethno-religious minorities increases (following the examples of China in relation to Uyghurs and Muslims in general)
+* Surveillance over ethno-religious minorities increases 
 * People prefer to live in "normalised" (social norms) closed societies and do not open to diversity
 * Measures against the pandemic are used to reinforce the oppression of minorities, in terms of access to vaccines and healthcare (new potential for pressurising minority leaders) 
 

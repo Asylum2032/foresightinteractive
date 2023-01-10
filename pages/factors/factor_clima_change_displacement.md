@@ -1,5 +1,5 @@
 ---
-title: Climate Change Induced Displacement
+title: Climate Change-Induced Displacement
 layout: splash
 permalink: /factors/climate_change_displacement
 header:
@@ -11,13 +11,13 @@ toc_icon: "cog"
 
 ![image-left](/assets/images/ClimateChange.jpg){: .align-left }
 
-# Climate Change Induced Displacement
+# Climate Change-Induced Displacement
 Changing environmental conditions lead to justification for permanent displaced populations. Powerful entity takes control of land, displaces previous users, enforces new ownership and management with violent oppression.
 
 |
 
 # A (Optimist)
-Climate refugees protected by IP policy and environmental policy reduces impacts
+Climate refugees protected by international protection policy and environmental policy reduces impacts
 * Refugee and asylum legislation expanded to include climate-induced displacement, allowing people to get a recognised status, no qualification limbo for applicants 
 * Technologically protecting people from the effects of natural disasters (e.g. predictions of flood levels, droughts etc.), mitigation policy and pre-emptive operations reduce impacts
 * International land ownership rights are strengthened / expanded (e.g. include indigenous groups etc.) giving peo-ple the tools to dispute expropriation
@@ -27,7 +27,7 @@ Climate refugees protected by IP policy and environmental policy reduces impacts
 Intensification of climate impacts increases displacement, insecurity and migrants seeking international protection
 * Climate change intensifies permanent desertification of areas and armed conflicts
 * The number of extreme weather events increases globally, impacting developing countries disproportionally, and leading to an increased number of vulnerable, internally and internationally displaced people, in precarious situations
-* Climate-induced migration policy is not addressed, migrants receive no formal legal status, and are not able to return to COI
+* Climate-induced migration policy is not addressed, migrants receive no formal legal status, and are not able to return to country of origin
 * Policy changes, conflict and economic interest lead to forced changes in land use, increase in “unsuccessful” asylum seekers, as internal displacement is not acknowledged criteria
 * People suffer persecution and human rights violations during migration journey after land disputes
 

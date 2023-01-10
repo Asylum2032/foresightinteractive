@@ -19,8 +19,8 @@ Most social media platforms emerged fewer than 10 years ago, yet they have funda
 # A (Optimist)
 Regulated, mediated and trustworthy social media provide reliable information while respecting privacy by default
 * Migrants can inform and educate themselves in their surroundings (environment, context, culture), which leads to a bottom-up transformation towards more equality in society 
-* Using social media to make up for missed professional education (during transit, or due to conflict) is possible (in conjunction with Massive Open Online Courses)
-* Successful social media campaigns, policies, and technologies to dismantle fake news, curtail hate speech, and remove fake accounts used to seed discontent. 
+* Using social media to make up for missed professional education (during transit, or due to conflict) is possible
+* Successful social media campaigns, policies, and technologies to dismantle fake news, curtail hate speech, and remove fake accounts used to seed discontent
 * Social media fall under new standards and regulations. These regulations put ethical concerns ahead of profitability
 
 # B (Pessimist)
@@ -41,17 +41,17 @@ Social media follow international regulation on minimal standards to limit misin
 
 # C2 (Mediator)
 Geospatially restricted social media landscape further limits access to information, and enables censorship and surveillance
-* Unregulated social media are harnessed to track and anticipate migratory flows, enabling receiving nations to better prepare for increases of refugees.
+* Unregulated social media are harnessed to track and anticipate migratory flows, enabling receiving nations to better prepare for increases of refugees
 * Social media’s use of biased analytics methods and incomplete databases create or enhance inaccuracies in the processing of international protection claims
 * Intra-platform competition puts ethical corporate behaviour at odds with profitability
-* Social media are no longer used by both agencies and asylum seeking migrants given known problems in database accuracy, and data authenticity.  
+* Social media are no longer used by both agencies and asylum seeking migrants given known problems in database accuracy, and data authenticity  
 
 
 # D (Innovator)
 New technologies enable deeper integration of next generation communications
 * 'Metaverse' social technologies provide safe and secure virtual spaces for oppressed social groups 
-* Virtual worlds increase employment opportunities that can be performed nearly anywhere.
-* Virtual spaces effectively blur the line between physical and digital for social and cultural life.   
+* Virtual worlds increase employment opportunities that can be performed nearly anywhere
+* Virtual spaces effectively blur the line between physical and digital for social and cultural life  
 
 
 

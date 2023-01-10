@@ -19,6 +19,6 @@ The images used for the scenario personas are not real people. Any resemblance t
 
 ## Copyright Notice 
 
-Copyright © European Union Agency for Asylum (for the entire content of this website unless otherwise stated)
+Copyright © European Union Agency for Asylum (for the entire content of this website unless otherwise stated).
 Reproduction is authorised provided the source is acknowledged.
 For any use or reproduction of photos or other material that is not under the EUAA copyright, permission must be sought directly from the copyright holders.

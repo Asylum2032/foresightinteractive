@@ -19,7 +19,7 @@ Disparity in wealth, income opportunities and access to services (healthcare, et
 
 # A (Optimist)
 Global initiatives and rapid economic development reduce mixed migration
-* Indebted countries have loans forgiven (China) allowing them to reinvest in society
+* Indebted countries have loans forgiven, allowing them to reinvest in society
 * Reduced wealth inequalities in third countries: better living standards, abated poverty, wide-spread access to healthcare
 * Further economic development makes third countries more attractive, diverting some mixed migration towards those regions
 * Global initiative - collaboration between governments - make it compulsory for large corporations to donate a part of their profit to maintenance/financial support for refugee camps around the world

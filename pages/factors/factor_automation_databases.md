@@ -12,9 +12,8 @@ toc_icon: "cog"
 ![image-left](/assets/images/automationDatabases.jpg){: .align-left }
 
 # Automation and Databases
-Artificial Intelligence (AI) and Machine Learning methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation.
+Artificial Intelligence (AI) and Machine Learning (ML) methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation.
 
-|
 
 # A (optimist)
 User-controlled private data enables reliable and faster AI-based application processing and environmental monitoring
@@ -26,7 +25,7 @@ User-controlled private data enables reliable and faster AI-based application pr
 
 # B (pessimist)
 Widespread use of flawed automated systems with suspect databases that have been attacked and exploited by malevolent regimes 
-* Malevolent use of digital platforms and databases by third parties / (hostile) countries of origin making refugee returns to COIs impossible
+* Malevolent use of digital platforms and databases by third parties / (hostile) countries of origin making refugee returns impossible
 * Usages of drones, surveillance tools for coordinating push-backs
 * Humanitarian resources are deployed based on imperfect AI algorithms and so crises are made worse
 * Totalitarian regimes use biometrics to identify supporters and persecute dissidents
@@ -36,7 +35,7 @@ Widespread use of flawed automated systems with suspect databases that have been
 
 
 # C1 (mediator)
-* AI has been implemented extensively, and is working well across various IP activities and procedures
+* AI has been implemented extensively, and is working well across various international protection activities and procedures
 * Private and Public databases are used by automated systems for a variety of governmental tasks. 
 * Data privacy policies are ineffective at safe guarding personally identifiable information.
 * Biometric genetics are used to estimate relatedness in support of family reunification (security concerns emerge)
