@@ -52,5 +52,5 @@ Broad adoption of remote asylum application processing de-incentivises improving
 ## D (Innovator)
 
 Developed transit country labour markets and expanded refugee sponsorship programmes
-* Improved economic and political stability of transit countries through labour market development.
+* Improved economic and political stability of transit countries through labour market development
 * Sponsorship programmes use remote processing to pair refugees with hosts

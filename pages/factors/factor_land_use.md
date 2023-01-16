@@ -43,4 +43,4 @@ State violence and land grabbing are intensified by climate change
 # D (Innovator)
 Technology reduces resource scarcity and helps safeguard ethno-minorities
 * Less dependency on land, so less conflict on disputed land
-* Technology monitoring oppression in various countries and mechanism allowing certain individuals to seek international protection if they are oppressed and vulnerable. 
+* Technology monitoring oppression in various countries and mechanism allowing certain individuals to seek international protection if they are oppressed and vulnerable 

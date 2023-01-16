@@ -32,7 +32,7 @@ Restrictive interpretations of international protection slow processing, worsen 
 
 # C1 (Mediator)
 Expansion of humanitarian visa programs, but unprotected transit
-* International refugee law develops and a new successful way is found for destination countries to share costs  more equitably.
+* International refugee law develops and a new successful way is found for destination countries to share costs  more equitably
 * Humanitarian visas begin to be issued in embassies and consulates around the world, but asylum seekers encounter great delays in their journey due to travel restrictions, leaving many of them vulnerable
 
 # C2 (Mediator)
