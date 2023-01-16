@@ -31,9 +31,9 @@ Equitable agreements ease border pressure and improve conditions
 Instrumentalised immigrants, disintegrating political dialogue, increasing 
 abuses and worsening conditions
 * Neighbouring countries use asylum seekers to demand more resources to continue containment efforts
-* The use of immigrants in hybrid warfare tactics becomes common place.
+* The use of immigrants in hybrid warfare tactics becomes common place
 * Abuse of visa-free regimes
-* Increasing nationalism among transit country citizens, and further radicalisation of immigrants in transit countries with closed borders.
+* Increasing nationalism among transit country citizens, and further radicalisation of immigrants in transit countries with closed borders
 * Transit countries abandoning of EU accession process / decreased willingness to align with EU asylum standards on a voluntary basis
 
 

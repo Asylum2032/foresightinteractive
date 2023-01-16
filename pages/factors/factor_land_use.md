@@ -20,7 +20,7 @@ Regimes controlling wealth generated from exploitation of resources may exercise
 More transparency, more international awareness hinder misuse of state power and land grabbing
 * Easily accessible technologies (like YouTube) are used effectively to document state violence and raise awareness of the oppression, in turn increasing domestic and international pressure on the regime 
 * Climate change fosters a discussion about how land and its use is intrinsically connected to people's identity and well-being; international regulations follow which reduce the land grabbing conflict induced migration
-* Western states, under pressure from an increasing number of authoritarian ones, seriously collaborate to set and enforce consequences on state leaders and their business interests for any human rights violations.
+* Western states, under pressure from an increasing number of authoritarian ones, seriously collaborate to set and enforce consequences on state leaders and their business interests for any human rights violations
 
 # B (Pessimist)
 Regime evictions become more frequent and geographically widespread

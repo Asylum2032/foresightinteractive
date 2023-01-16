@@ -5,7 +5,7 @@ permalink: /factors/climate_change_displacement
 header:
     overlay_image: /assets/images/image_header.jpg
 toc: true
-toc_label: "Climate Change Induced Displacement"
+toc_label: "Climate Change-Induced Displacement"
 toc_icon: "cog"
 ---
 
@@ -18,7 +18,7 @@ Changing environmental conditions lead to justification for permanent displaced 
 
 # A (Optimist)
 Climate refugees protected by international protection policy and environmental policy reduces impacts
-* Refugee and asylum legislation expanded to include climate-induced displacement, allowing people to get a recognised status, no qualification limbo for applicants 
+* Refugee and asylum legislation expanded to include climate change-induced displacement, allowing people to get a recognised status, no qualification limbo for applicants 
 * Technologically protecting people from the effects of natural disasters (e.g. predictions of flood levels, droughts etc.), mitigation policy and pre-emptive operations reduce impacts
 * International land ownership rights are strengthened / expanded (e.g. include indigenous groups etc.) giving peo-ple the tools to dispute expropriation
 * Community sponsorships, work and visa programmes related to certain skills and regions are created
@@ -27,17 +27,17 @@ Climate refugees protected by international protection policy and environmental 
 Intensification of climate impacts increases displacement, insecurity and migrants seeking international protection
 * Climate change intensifies permanent desertification of areas and armed conflicts
 * The number of extreme weather events increases globally, impacting developing countries disproportionally, and leading to an increased number of vulnerable, internally and internationally displaced people, in precarious situations
-* Climate-induced migration policy is not addressed, migrants receive no formal legal status, and are not able to return to country of origin
+* Climate change-induced migration policy is not addressed, migrants receive no formal legal status, and are not able to return to country of origin
 * Policy changes, conflict and economic interest lead to forced changes in land use, increase in “unsuccessful” asylum seekers, as internal displacement is not acknowledged criteria
 * People suffer persecution and human rights violations during migration journey after land disputes
 
 # C1 (Mediator)
 Financial support and land ownership policy allows localised rebuilding and resettling
-* More money is invested in preventing climate-induced displacement such as disaster risk reduction etc. allowing affected population to deal with the events more successfully &rarr; and thus being less likely to have to move
+* More money is invested in preventing climate change-induced displacement such as disaster risk reduction etc. allowing affected population to deal with the events more successfully &rarr; and thus being less likely to have to move
 * Land ownership rights are somewhat clarified in some regions and fewer people are forced to leave their homeland
 
 # C2 (Mediator)
-Unchanged rate of climate induced migration, weak enforcement and protections of land rights 
+Unchanged rate of climate change-induced migration, weak enforcement and protections of land rights 
 * Gradual increase in climate disasters leads to slowly increased migration flows
 * In some areas the actors that enforce the changes in land use resort to military forces
 * Land ownership rights are formally strengthened but cannot be successfully enforced due to widespread corruption, other issues, leading to very little change in terms of displacement

@@ -39,7 +39,7 @@ Inequalities worsen living conditions and create more migrants and increase the 
 Increased development triggers greater number of migrants 
 * Increased economic development leads to increases of migrant outflows
 * These outflows are compounded by fore-seen demographic changes
-* Global Tax initiatives fund successful eco-nomic development projects.
+* Global Tax initiatives fund successful eco-nomic development projects
 
 
 # C2 (Mediator)

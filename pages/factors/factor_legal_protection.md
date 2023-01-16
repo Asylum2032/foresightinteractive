@@ -20,7 +20,7 @@ The options through which international protection can be legally pursued may ch
 Global migration and asylum reform with sponsorship, protected transit and resettlement agreements
 * There is a new global agreement on migration and asylum management and flows become more orderly 
 * The Geneva Convention is modernised, policies more adapted (e.g. climate refugees included), and protected transit universalised
-* Global quotas for resettlement are increased to match associated resettlement needs. Criteria for humanitarian visa become more generous, and asylum seeker sponsorship schemes become more widespread. 
+* Global quotas for resettlement are increased to match associated resettlement needs. Criteria for humanitarian visa become more generous, and asylum seeker sponsorship schemes become more widespread 
 * Resettlement gains more and more prominence and the majority of applicants arrive in a safe and orderly manner
 
 # B (Pessimist)
@@ -42,4 +42,4 @@ Fractured global migration reform and hardened territorialisation
 
 # D (Innovator)
 Externalised screening and remote interviewing expedites asylum procedures
-* Embassies and consulates start pre-screening potential asylum seekers' applications, whose applications are then sent to the central services of the national asylum authorities, who then issue a decision based on the application and interview done online.
+* Embassies and consulates start pre-screening potential asylum seekers' applications, whose applications are then sent to the central services of the national asylum authorities, who then issue a decision based on the application and interview done online

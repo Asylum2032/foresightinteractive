@@ -12,7 +12,7 @@ toc_icon: "cog"
 ![image-left](/assets/images/automationDatabases.jpg){: .align-left }
 
 # Automation and Databases
-Artificial Intelligence (AI) and Machine Learning (ML) methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation.
+Artificial Intelligence (AI) and Machine Learning (ML) methods can automate identity verification. The databases these technologies rely on are heterogeneous, partial and vulnerable to exploitation
 
 
 # A (optimist)
@@ -30,14 +30,14 @@ Widespread use of flawed automated systems with suspect databases that have been
 * Humanitarian resources are deployed based on imperfect AI algorithms and so crises are made worse
 * Totalitarian regimes use biometrics to identify supporters and persecute dissidents
 * Identifying databases used as bargaining chip for international negotiations
-* Individuals have no control over the data collected and stored by developers and monitoring entities.
+* Individuals have no control over the data collected and stored by developers and monitoring entities
 * Databases increasingly controlled by the private sector, who are not democratically elected and not open about how data are collected or used
 
 
 # C1 (mediator)
 * AI has been implemented extensively, and is working well across various international protection activities and procedures
-* Private and Public databases are used by automated systems for a variety of governmental tasks. 
-* Data privacy policies are ineffective at safe guarding personally identifiable information.
+* Private and Public databases are used by automated systems for a variety of governmental tasks
+* Data privacy policies are ineffective at safe guarding personally identifiable information
 * Biometric genetics are used to estimate relatedness in support of family reunification (security concerns emerge)
 
 # C2 (mediator)
@@ -49,6 +49,6 @@ The application of AI automated systems is hindered by restricting use to limite
 Fully automated asylum processes that involve no human intervention  
 * AI-based admin systems allow making quick decisions on asylum applications thus solving the problem of backlog and allowing more people to get international protection
 * No human intervention needed in the processing of asylum claims
-* Persistent gaps in ability to conduct audits or performance reviews of AI/ML systems due to limited knowledge of decision-making algorithms.
+* Persistent gaps in ability to conduct audits or performance reviews of AI/ML systems due to limited knowledge of decision-making algorithms
 
 

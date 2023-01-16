@@ -11,9 +11,31 @@ header:
 # Challenge Cluster 1: Geopolitics and International Relations
 
 ![image-right](/assets/images/Geopolitics.jpg){: .align-right }
-This cluster is focused on challenges that can emerge if relationships between countries shift, global alliances reconfigure themselves, and the rules governing those relationships change accordingly. The scenarios address very distinct geopolitical situations and outline the very different challenges each presents within the scope of international protection. Armed conflicts, be they at the international scale or limited to national or regional civil wars, are one of the greatest concerns with regard to the futures of international protection given the variety of challenges such conflicts present. The distinct possibility of widespread increase in armed conflict is explicitly taken up in one scenario (Caimans and Piranhas).
+This cluster is focused on challenges that can emerge if relationships between 
+countries shift, global alliances reconfigure themselves, and the rules governing 
+those relationships change accordingly. The scenarios address very distinct 
+geopolitical situations and outline the very different challenges each presents 
+within the scope of international protection. Armed conflicts, be they at the 
+nternational scale or limited to national or regional civil wars, are one of the 
+greatest concerns with regard to the futures of international protection given 
+the variety of challenges such conflicts present. The distinct possibility of 
+widespread increase in armed conflict is explicitly taken up in one scenario 
+(Caimans and Piranhas).
 
-Transit countries, and differing strategies to building relationships with them, remain a source of challenges across all scenarios. The scenarios show that different forms of cooperation and support for international protection are possible, but challenges arise from political instabilities and their sensitivity to external disruptions. Two scenarios explore economic development in transit countries and the new challenges that emerge (e.g. corruption and exploitation of refugees and migrants). A resilient and longer-term orientation of international protection activities should therefore include close cooperation with strategically selected transit countries, this might also include a strategic monitoring of transit countries. Further challenges arise as international protection applicants live in transit countries for increasingly longer durations, and the possibility of introducing of international protection quotas or other attempts to limit the number of refugees are attempted, as addressed in different scenarios.
+Transit countries, and differing strategies to building relationships with them, 
+remain a source of challenges across all scenarios. The scenarios show that 
+different forms of cooperation and support for international protection are 
+possible, but challenges arise from political instabilities and their sensitivity 
+to external disruptions. Two scenarios (Sharks & Orcas and Leopard) explore 
+economic development in transit countries and the new challenges that emerge 
+(e.g. corruption and exploitation of refugees and migrants). A resilient and 
+longer-term orientation of international protection activities should therefore 
+include close cooperation with strategically selected transit countries, this 
+might also include a strategic monitoring of transit countries. Further challenges 
+arise as international protection applicants live in transit countries for 
+increasingly longer durations, and the possibility of introducing of international 
+protection quotas or other attempts to limit the number of refugees are attempted, 
+as addressed in different scenarios.
 
 **Noted challenges**
 

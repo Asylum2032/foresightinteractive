@@ -20,7 +20,7 @@ Ultra-secure databases for migration and automated monitoring systems
 * Launch of end-to-end automated immigration processing systems lead to efficiency gains in international protection
 * Invention of highly secure and standardised databases for exclusive use by migration organisations
 * Enabled constant monitoring of health and wellbeing of asylum seekers improves living conditions of asylum seekers
-* Ultra-secure databases for migration and automated monitoring systems provide tracking, information delivery, limiting overstays, and organised relocation.
+* Ultra-secure databases for migration and automated monitoring systems provide tracking, information delivery, limiting overstays, and organised relocation
 
 
 # B (Pessimist)
@@ -46,5 +46,5 @@ Automated monitoring systems provide initial success, but ultimately fail
 
 # D (Innovator)
 Digital surveillance transparently regulated by international organisations
-* Online surveillance is brought under the remit of an international organisation that allows for the use of firewalls that protect people by protecting their identities from being persecuted by governments for expressing their opinions online. Though people can still be persecuted if they express their opinions physically, which can be a cause of flight.
+* Online surveillance is brought under the remit of an international organisation that allows for the use of firewalls that protect people by protecting their identities from being persecuted by governments for expressing their opinions online. Though people can still be persecuted if they express their opinions physically, which can be a cause of flight
 
