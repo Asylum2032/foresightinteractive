@@ -19,7 +19,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) methods can automate iden
 User-controlled private data enables reliable and faster AI-based application processing and environmental monitoring
 * Shared guidelines and security measures that are in place and taken up by everyone, exceptionally user-friendly
 * Privacy enabled freeware replaces big technology. Data agency is given back to the user - ensuring data privacy and clear consent of data access 
-* Organisations which are working in the field can take up database information to facilitate access to the procedure and speed it up (to verify whether someone’s asylum application has merits).
+* Organisations which are working in the field can take up database information to facilitate access to the procedure and speed it up (to verify whether someone’s asylum application has merits)
 * Broad deployment of secure, accurate biometric systems (facial / iris / voice- and gait-recognition)
 
 
